@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pentru "Istoria Moldovei"
 
 You can use the [editor on GitHub](https://github.com/sdudnic/istoria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
