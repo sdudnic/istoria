@@ -6,6 +6,9 @@ adresare către Consiliul de nediscriminare, pentru Istoria Moldovei
 Pe 9 octombrie 2019 am inițiat [o petiție](https://github.com/sdudnic/moldova/wiki/egalitate-md) la adresa consiliului de egalitate din Moldova, denumita "pentru Istoria Moldovei", semnată de mii de persoane, petiție la care și astăzi, în 2022, la aproape trei ani de zile, Consiliul nu a răspuns, încălcând propriile reguli și statute.
 
 Am dori sa explicam vederea noastră asupra unor argumente date de Consiliu, care au fost menționate ca impedimente pentru obținerea unui răspuns oficial din partea consiliului, argumente citate mai jos din scrisoarea Consiliului - semnată de Ian Feldman - către comisia parlamentara CDO de la 19.08.21 la tema petiției) 
+
+<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="800" height="300"></iframe>
+
 1. nu se reușește sa fie obținute trei voturi pro sau contra:
     * situație imposibilă în caz dacă toți cinci membrii ai consiliului votează, respectiv, este cel puțin un membru care a obstrucționat votul (nu a votat);
     * președintele consiliului nu a luat măsuri ca în trei ani de zile sa obțină acest vot;
