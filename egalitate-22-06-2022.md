@@ -7,7 +7,7 @@ Pe 9 octombrie 2019 am inițiat [o petiție](https://github.com/sdudnic/moldova/
 
 Am dori sa explicam vederea noastră asupra unor argumente date de Consiliu, care au fost menționate ca impedimente pentru obținerea unui răspuns oficial din partea consiliului, argumente citate mai jos din scrisoarea Consiliului - semnată de Ian Feldman - către comisia parlamentara CDO de la 19.08.21 la tema petiției) 
 
-<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="800" height="300"></iframe>
+<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="100%" height="300"></iframe>
 
 1. nu se reușește sa fie obținute trei voturi pro sau contra:
     * situație imposibilă în caz dacă toți cinci membrii ai consiliului votează, respectiv, este cel puțin un membru care a obstrucționat votul (nu a votat);
