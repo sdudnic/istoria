@@ -7,7 +7,6 @@ Acest portal este menit sa publice toate informatiile pe care le avem la moment 
 
 ## Noutati
 
-
 ### Relansarea Consiliului pentru nediscriminare
 `22-06-2022`
 
@@ -15,3 +14,13 @@ Am hotarat sa publicam toate informatiile referitoare la proiect publicului inte
 
 In urma lasarii in uitare completa a petitiei, a fost adresata urmatoarea scrisoare, deschisa, catre Consiliul pentru prevenirea și eliminarea discriminării.
 A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022). 
+
+### Raspuns Consiliu catre CDO (Parlament)
+`19-08-2021`
+
+<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="100%" height="300"></iframe>
+
+### Intrbarea CDO (Parlament) catre Consiliu
+`19-08-2021`
+
+<iframe src="/istoria/assets/2021_08_19_QuestionParlamentToConsiliu.pdf" width="100%" height="300"></iframe>
