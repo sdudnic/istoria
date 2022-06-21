@@ -1,6 +1,4 @@
-# Pentru "Istoria Moldovei"
-
-Proiectul "pentru Istoria Moldovei" este o initiativa civica de readucere la valorile europene Ministerul Educatiei din Republica Moldova, care, dupa opinia autorilor, a derapat in extremism nationalist, introducand etno-centrismul focalizat pe etnia românâ în sistemul educational din Republica Moldova.  
+Proiectul "Pentru 'Istoria Moldovei'" este o initiativa civica de readucere la valorile europene Ministerul Educatiei din Republica Moldova, care, dupa opinia autorilor, a derapat in extremism nationalist, introducand etno-centrismul focalizat pe etnia românâ în sistemul educational din Republica Moldova.  
 
 Pe acasta pagina puteti citi [descrierea detaliata a petitiei](/istoria/descriere) in limba moldoveneasca, a [adresarii grupului de initiativa la Consiliul pentru prevenirea și eliminarea discriminării](/istoria/egalitate-md) (cu traduceri, la care puteti [contribui](https://github.com/sdudnic/istoria): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru), precum si [petitia pentru semnarea online](https://www.petitieonline.com/history-md) (traduceri în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
 
