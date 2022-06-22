@@ -27,7 +27,7 @@ A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022).
 
 ### Raspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petitia
-<iframe src="[](assets/2021_10_12_AnswerOmbudsman.pdf)" width="100%" height="300"></iframe>
+<iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf)" width="100%" height="300"></iframe>
 
 ### Raspunsul Consiliului catre CDO (Parlament)
 `19.08.2021`, în care încearca sa explice de ce nu iau nicio decizie
