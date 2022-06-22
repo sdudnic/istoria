@@ -4,7 +4,7 @@ Pe această pagină puteți citi [descrierea detaliata a petiției](/istoria/des
 
 Acest portal este menit să publice toate informațiile pe care le avem la moment pentru publicul larg și pentru petiționarii care au semnat petiția și sunt interesați de derularea procesului. 
 
-## Contribuie la proiect?!
+## Contribuie și tu la proiect!
 
 Dacă crezi că poți sa contribui la proiect, avem mai multe chestii de făcut în comun: 
 - ameliorarea sau simplu traducerea petiției in diferite limbi (în special engleza). 
@@ -24,7 +24,8 @@ A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022).
 
 ### Răspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
-<iframe src="/istoria/assets/2021_10_12_AnswerOmbudsman.pdf)" width="100%" height="300"></iframe>
+<iframe src="/istoria/assets/2021_10_12_AnswerOmbudsman.pdf" width="100%" height="300"></iframe>
+<iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf" width="100%" height="300"></iframe>
 
 ### Răspunsul Consiliului către CDO (Parlament)
 `19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
