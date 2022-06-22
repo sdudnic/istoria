@@ -1,7 +1,4 @@
-Proiectul "Pentru 'Istoria Moldovei'" este o inițiativa civica de readucere la valorile europene Ministerul Educației și Cercetării din Republica Moldova, care, după opinia autorilor, a derapat în extremism naționalist, insistând pe un etno-centrism focalizat pe etnia română în sistemul educațional din Republica Moldova, probabil din exces de zel de "luptă antisovietică", pe care unii reprezentați ai elitei moldovenești le pare ca ar conduce în mod eroic, însă care are rezultate nefaste asupra societății, și după opinia noastră ne îndepărtează atât de valorile europene, cât și pe viitor de suveranitatea și independența tarii noastre. Scopul nostru este de a demonstra ca denumirea etnocentrică a unui obiect școlar este discriminatorie, neetică și contravine multiplelor convenții internaționale, a legislației naționale și pur și simplu a bunului simt de coabitare a comunităților etnice din țara noastră comună. 
-Pentru a evita speculațiile, grupul de inițiativă de bază este alcătuit din moldoveni, și nu are (cu toate ca s-a adresat de multiple ori), niciun suport din partea unor state terțe, de la Vest sau Est.
-
-Textele următoare sunt disponibile:  
+Textele următoare de bază sunt disponibile:  
 
 - [varianta scurtă a petiției, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
 - [descrierea detaliata a petiției](/istoria/descriere), 
