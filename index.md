@@ -19,14 +19,14 @@ Avem mai multe chestii de făcut în comun:
 ## Noutăți
 
 ### Relansarea Consiliului pentru nediscriminare
-`22.06.2022` Am hotărât sa publicam toate informațiile referitoare la proiect publicului interesat. De aici și apariția acestei pagini. 
+`22.06.2022` de astâzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine 
 
 In urma lăsării in uitare completa a petiției, a fost adresata următoarea scrisoare, deschisa, către Consiliul pentru prevenirea și eliminarea discriminării.
 
 A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022). 
 
-### Răspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova `12.10.2021`
-, în care refuza de a analiza petiția
+### Răspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova 
+`12.10.2021`, în care refuza de a analiza petiția
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf" width="100%" height="300"></iframe>
 
 ### Răspunsul Consiliului către CDO (Parlament)
@@ -39,4 +39,4 @@ A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022).
 
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf" width="100%" height="300"></iframe>
 
-[1]: https://github.com/sdudnic/istoria/issues
+[1]: https://github.com/sdudnic/istoria/discussions
