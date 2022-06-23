@@ -18,7 +18,7 @@ Pe 9 octombrie 2019 grupul de inițiativă civică "Pentru Istoria Moldovei" (**
 
 
 ## Cauzele afișate ale impotenței Consiliului 
-Am dori sa explicăm vederea Grupului asupra unor argumente ale *Consiliului* date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție (citez scrisoarea de mai sus): 
+Am dori sa explicăm vederea Grupului asupra unor argumente ale *Consiliului* date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție: 
 
 
 1. > Consiliul nu a ajuns la o poziție [*pro* sau *contra* n.r.] ... care sa fie susținută unanim de cel puțin 3 membri"
