@@ -2,7 +2,7 @@ Textele următoare de bază sunt disponibile:
 
 - [varianta scurtă a petiției pentru Istoria Moldovei, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
 - [descrierea detaliată a petiției, cu detalii legislative din practica internațională](/istoria/descriere), 
-- [adresarea grupului de inițiativă la Consiliul pentru prevenirea și eliminarea discriminării](/istoria/egalitate-md) (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru)
+- [adresarea grupului de inițiativă la Consiliu](/istoria/egalitate-md)l pentru prevenirea și eliminarea discriminării (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru)
 
 
 ## Tu poți contribui la proiect!
@@ -19,11 +19,11 @@ Avem mai multe chestii de făcut în comun:
 ## Noutăți
 
 ### Cerem Comisiei Drepturilor Omului de a propune Parlamentului desființarea Consiliului
-`23.06.2022` adresăm o scrisoare deschisa Comisiei parlamentare a Drepturilor Omului 
+`23.06.2022` adresăm [o scrisoare][2] deschisa Comisiei parlamentare a Drepturilor Omului 
 
 In urma lăsării în uitare completă a petiției pentru Istoria Moldovei, a fost adresata scrisoare deschisă către Comisiei parlamentare a Drepturilor Omului și Consiliul pentru prevenirea și eliminarea discriminării, în care cerem reformarea sau desființarea Consiliul pentru prevenirea și eliminarea discriminării și explicam și cauzele.
 
-A [citi scrisoarea integral este posibil aici](./egalitate-22-06-2022). 
+A [citi scrisoarea integral este posibil aici][2]. 
 
 ### Publicarea paginii web pentru petiție
 `22.06.2022` de astăzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine 
@@ -43,4 +43,5 @@ A [citi scrisoarea integral este posibil aici](./egalitate-22-06-2022).
 
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
 
-[1]: https://github.com/sdudnic/istoria/discussions
+[1]: ./discussions
+[2]: ./egalitate-22-06-2022
