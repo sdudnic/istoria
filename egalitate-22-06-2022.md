@@ -1,14 +1,15 @@
-adresare către Consiliul de nediscriminare, pentru Istoria Moldovei
+Adresare către Comisia drepturile omului și relații interetnice și Consiliul de nediscriminare, despre petiția pentru Istoria Moldovei
 ===
 
 > Spre atenția lui 
 Andrei BRIGHIDIN, 
 Evghenii GOLOSCEAPOV,
-**Ian FELDMAN** (președinte), 
+**Grigore NOVAC (președintele Comisiei parlamentare),
+Ian FELDMAN (președintele Consiliului)**, 
 Svetlana DOLTU, 
 Victorina LUCA - membrii ai "Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității" din Republica Moldova (Consiliu de nediscriminare, sau **Consiliu**).
 
-## Scurt istoric
+## Despre ce e vorba?
 Pe 9 octombrie 2019 grupul de inițiativă civică "Pentru Istoria Moldovei" a inițiat [o petiție](https://github.com/sdudnic/moldova/wiki/egalitate-md) la adresa Consiliului, pentru a constata prezența discriminării etnice în denumirea obiectului școlar de istorie națională din Republica Moldova, așa cum a fost numit de Ministerul Educației. Petiție, semnată de mii de persoane, la care și astăzi, în 2022, la aproape trei ani de zile, Consiliul nu a răspuns, încălcând propriile reguli și statute (in special [legea 298, Art. 14](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=346943) ce stipulează termenii de răspuns la petițiile cetățenilor - 10 zile lucrătoare).
 
 În lipsa de răspuns, Grupul s-a adresat la Parlament (Consiliul este responsabil in fata acestuia), prin Comisia drepturile omului și relații interetnice, care a interogat Consiliul in privința petiției Grupului. Publicăm mai jos răspunsul Consiliului la aceasta scrisoare, răspuns - semnată de Ian Feldman - către comisia parlamentara CDO de la 19.08.21 la tema petiției.
