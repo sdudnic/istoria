@@ -25,7 +25,7 @@ In urma lăsării in uitare completa a petiției, a fost adresata următoarea sc
 
 A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022). 
 
-### Răspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova 
+### Răspunsul Avocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
