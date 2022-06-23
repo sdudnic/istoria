@@ -1,8 +1,8 @@
 Textele următoare de bază sunt disponibile:  
 
-- [varianta scurtă a petiției, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
-- [descrierea detaliata a petiției](/istoria/descriere), 
-- [adresarea grupului de inițiativa la Consiliul pentru prevenirea și eliminarea discriminării](/istoria/egalitate-md) (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru)
+- [varianta scurtă a petiției pentru Istoria Moldovei, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
+- [descrierea detaliată a petiției, cu detalii legislative din practica internațională](/istoria/descriere), 
+- [adresarea grupului de inițiativă la Consiliul pentru prevenirea și eliminarea discriminării](/istoria/egalitate-md) (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru)
 
 
 ## Tu poți contribui la proiect!
