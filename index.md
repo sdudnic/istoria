@@ -7,13 +7,14 @@ Textele următoare de bază sunt disponibile:
 
 ## Tu poți contribui la proiect!
 
-Avem mai multe chestii de făcut în comun: 
-- traduce (sau ameliorarea traducerii) - Engleză, Franceză, Italiană, Spaniolă, Rusă etc. – pentru a putea informa comunitatea și organizațiile internaționale despre problema noastră 
-- îmbogăți conținutului petiției cu exemple similare din practica juridică internațională, cazuri similare din alte părți a lumii
-- adaugă persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!;
-- ai idei, opinii, sugestii 
-
 **[SCRIE-NE AICI][1]**, vom fi bucuroși de orice comentariu sau propunere!
+
+Avem mai multe chestii de făcut în comun: 
+- traduce (sau ameliorarea traducerii) - Engleză, Franceză, Italiană, Spaniolă, Rusă etc. – pentru a putea informa comunitatea și organizațiile internaționale despre problema noastră; 
+- îmbogăți conținutul petiției cu exemple din practica juridică internațională, cazuri similare din alte părți a lumii;
+- adăuga persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!;
+- semnala un caz de abuz legat de tematica petiției; 
+- împărtăși idei, opinii, sugestii.
 
 
 ## Noutăți
