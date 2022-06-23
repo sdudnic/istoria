@@ -98,5 +98,6 @@ Analizând textele trimise de către *Consiliu*, suntem nevoiți să constatăm 
 ## Ce dorim?
 * Rugăm *Comisia* parlamentară pentru Drepturile Omului și Relații Interetnice 
   * să ne trimită în răspuns concluziile sale pe aceste întrebări, concluzii pe care vom publica, ca și aceasta adresare deschisă, aici pe pagina noastră web;
-  * să discute cu Comisia Juridică pentru a întări legislația în ce privește *obstrucționarea justiției* în Republica Moldova (cel puțin să copie, după obicei, articolele respective din legislația românească în aceasta privință) - nu se poate ca procesele lansate de cetățeni către organele de stat să dureze la infinit. 
+  * să discute cu Comisia Juridică pentru a întări legislația în ce privește *obstrucționarea justiției* în Republica Moldova (cel puțin să copie, după obicei, articolele respective din legislația românească în aceasta privință) - nu se poate ca procesele lansate de cetățeni către organele de stat să dureze la infinit;
+  * să fie discutată în Parlament idea fie reformării, fie desființării Consiliului pentru prevenirea și eliminarea discriminării din cauza că la moment nu își îndeplinește obiectivele propuse, nici măcar nu este obligat legal să o facă. 
 * Rugăm președintele *Consiliului*, care este și membru raportor pe petiția noastră, să facă presiuni pe membrul/ii care nu își exercită corect mandatul de consilier și boicotează votul, (chiar și în cazul dacă acest membru este el însuși), pentru a produce o decizie la petiția pentru Istoria Moldovei care se colbăiește de ani de zile la Consiliu pe polițe.
