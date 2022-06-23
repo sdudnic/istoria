@@ -22,7 +22,7 @@ Avem mai multe chestii de făcut în comun:
 ### Cerem Comisiei Drepturilor Omului de a propune Parlamentului desființarea Consiliului
 `23.06.2022` adresăm [o scrisoare][2] deschisă Comisiei parlamentare a Drepturilor Omului 
 
-În urma lăsării în uitare completă a petiției pentru Istoria Moldovei, a fost adresată o scrisoare deschisă către Comisia parlamentară a Drepturilor Omului și Consiliul pentru prevenirea și eliminarea discriminării, în care cerem să fie discutată în Parlament idea reformării sau desființării Consiliului susnumit și explicăm cauzele.
+În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
 
 A [citi scrisoarea deschisă este posibil aici][2]. 
 
