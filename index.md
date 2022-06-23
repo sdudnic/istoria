@@ -19,8 +19,17 @@ Avem mai multe chestii de făcut în comun:
 
 ## Noutăți
 
+
+
+În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
+
+A [citi scrisoarea deschisă este posibil aici]
+
+
+
+
 ### Cerem Comisiei Drepturilor Omului de a propune Parlamentului desființarea Consiliului
-`23.06.2022` adresăm [o scrisoare][2] deschisă Comisiei parlamentare a Drepturilor Omului 
+`23.06.2022` se adresează [o scrisoare][2] deschisă Comisiei parlamentare a Drepturilor Omului 
 
 În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
 
@@ -44,5 +53,5 @@ A [citi scrisoarea deschisă este posibil aici][2].
 
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
 
-[1]: ./discussions
+[1]: https://github.com/sdudnic/istoria/discussions
 [2]: ./egalitate-22-06-2022
