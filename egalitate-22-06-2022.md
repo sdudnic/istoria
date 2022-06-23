@@ -1,4 +1,4 @@
-Adresare către Comisia drepturile omului și relații interetnice și Consiliul de nediscriminare, despre petiția pentru Istoria Moldovei
+Adresare către Comisia drepturile omului și relații interetnice și Consiliul pentru prevenirea și eliminarea discriminării și asigurarea egalității, despre petiția pentru Istoria Moldovei
 ===
 
 > Spre atenția lui 
@@ -18,22 +18,22 @@ Pe 9 octombrie 2019 grupul de inițiativă civică "Pentru Istoria Moldovei" (**
 
 
 ## Cauzele afișate ale impotenței Consiliului 
-Am dori sa explicăm vederea Grupului asupra unor argumente ale Consiliului date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție (citez scrisoarea de mai sus): 
+Am dori sa explicăm vederea Grupului asupra unor argumente ale *Consiliului* date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție (citez scrisoarea de mai sus): 
 
 
 1. > Consiliul nu a ajuns la o poziție [*pro* sau *contra* n.r.] ... care sa fie susținută unanim de cel puțin 3 membri"
-    * situație imposibilă în caz dacă *toți cinci* membrii ai Consiliului ar vota. Deci, *cel puțin* un membru obstrucționează votul (nu votează);
+    * situație imposibilă în caz dacă *toți cinci* membrii ai *Consiliului* ar vota. Deci, *cel puțin* un membru obstrucționează votul (nu votează);
     * președintele consiliului nu a luat măsuri că în trei ani de zile să obțină acest vot;
-    * Consiliul nu a explicat care sunt cauzele că aceasta (sau acele) persoane nu votează;
+    * *Consiliul* nu a explicat care sunt cauzele că aceasta (sau acele) persoane nu votează;
 2. > "subiectul abordat în speță este sensibil și ar putea avea un impact controversat" 
     * Evident ca este. De aici și petiția. 
-    * Petițiile "sensibile" au și fost cauza creării și însăși sensul existentei acestui Consiliu împotriva discriminării. Petiția cu Crucea din Ministerul de Interne (si câte altele), a fost și ea sensibilă, cu toate acestea, Consiliul a luata o decizie în acel caz, fără a amâna decizia la infinit. 
+    * Petițiile "sensibile" au și fost cauza creării și însăși sensul existentei acestui Consiliu împotriva discriminării. Petiția cu crucea din Ministerul de Interne (și câte altele), a fost și ea "sensibilă", cu toate acestea, *Consiliul* a luata o decizie în acel caz, fără a amâna decizia la infinit. 
 3. > procedura ... a fost suspendată până la recepționarea documentului de Amicus Curiae 
    
     Consiliul invoca motivul că nu ar fi fost obținut un _Amicus Curiae_ de la Centrul pentru drepturile omului de pe lângă Universitatea din Ottawa, Canada.
  
     La acest punct mai multe observații: 
-    - conform informației noastre de la Centrul Canadian, Consiliul ar fi primit un răspuns la petiția noastră. Acum, e greu (și irelevant) de ghicit dacă acest răspuns Consiliul l-ar fi sau nu considerat drept un _Amicus Curae_. Nu suntem siguri dacă *Consiliul* dorește să obțină un sfat profesional extern sau doar utilizează centrul canadian ca argument formal pentru tergiversare de procese;
+    - conform informației noastre de la Centrul Canadian, Consiliul ar fi primit un răspuns la petiția noastră. Acum, e greu de ghicit dacă acest răspuns Consiliul l-ar fi sau nu considerat drept un _Amicus Curae_. Nu suntem siguri dacă *Consiliul* dorește să obțină un sfat profesional extern sau doar utilizează centrul canadian ca argument formal pentru tergiversare de procese;
     - în regulamentul Consiliului sau în alte acte ce îi stipulează activitatea, nu exista prevederi despre suspendarea unei petiții până la obținerea unui _Amicus Curiae_, fie din Canada sau din alta parte. Așa argumente nu pot fi considerate drept motive legale de amânare a unei decizii a Consiliului Moldovenesc. Mai amintim ca "Centrul pentru drepturile omului" este o asociație non profit de benevoli, care nu este obligat sa răspundă la cererile "colegilor" din Republica Moldova.
     - Acceptarea situației de condiționare a unui răspuns la petiția adresata Consiliului, cu obținerea unui alt răspuns de la o organizație terță - mai ales benevolă, nelegata contractual de Consiliu - nu doar tergiversează procesul nostru, însă și creează un precedent periculos pentru alte asemenea petiții, cum pare sa fie și cazul jurnalistei Elena PAHOMOVA, care așa si nu a mai obținut niciun răspuns de la Consiliu la petita sa, unul din motive fiind aceeași lipsa de răspuns din Canada, sau a altor petiții eventuale, la care Centrul nu ar fi dat decizii nici în timp legal, nici măcar în unul rezonabil.
 
@@ -48,7 +48,7 @@ Despre ce fel de utilitate publică, sau profesionalism al Consiliului este vorb
 
 Care este relevanța acestei întrebări și care ar fi folosul găsirii unui răspuns în Parlament, *dacă întrebarea este scoasa din context*?
     Sa presupunem, la absurd, că parlamentarii dezbat și decid ca denumirea unei discipline școlare nu poate constitui discriminare.
-    Deci, din aceasta ar rezulta că mâine un ministru ar putea foarte legal sa denumească, de exemplu, obiectul de apărare civică : "Lecții de apărare de rușii cei bețivi, americanii cei proști și africanii cei smoliței"? Ar fi oare tolerate de lege așa excesuri, puțin probabile, însă neimposibile?
+    Deci, din aceasta ar rezulta că mâine un ministru ar putea foarte legal sa denumească, de exemplu, obiectul de apărare civică : "Lecții de apărare de rușii cei bețivi, americanii cei proști și africanii cei smoliței"? Ar fi oare tolerate de lege așa excese, puțin probabile, însă neimposibile?
 
 Dacă întrebarea *nu este scoasa din context*, ar fi bine ca experții în discriminare egalitate să precizeze, ce anume vor să dezbată în Parlament. Vor ei să legalizeze că orice pomenire despre *români* sa nu constituie discriminare, sau orice obiect școlar *cu etnonime în titlu* sa nu fie atins de aceasta noțiune de discriminare?
 
@@ -90,7 +90,7 @@ Analizând textele trimise de către Consiliu, suntem nevoiți sa constatam urm�
 1. consilierii nu au generat decât întrebări, reformulate din petiție, nicio analiza nu pare să fi fost făcută, cel puțin, din toate răspunsurile lor nicio analiza nu a fost constatată, nicio noua informație adusă; 
 1. cauzele acestora pot fi diverse, fie eșecul cadrelor alese pentru a studia întrebările pentru care nu au capacitați, fie tărăgănarea cointeresată a acestei întrebări etc.;
 1. indiferent de cauze, **situația nu poate continua așa**, noi acest comportament îl considerăm și îl vom trata ca abuz de putere sau/și **obstrucționarea justiției**: blocarea petiției în cadrul Consiliului obstrucționează procedurile ulterioare și rezultatele la care se așteaptă petiționarii;
-1. pentru deputații din Parlament, ar fi rezonabil de inclus pe agenta Comisiei Drepturile Omului și Relații Interetnice întrebarea **desființării Consiliului** în vederea 
+1. pentru deputații din Parlament, ar fi rezonabil de inclus pe agenta Comisiei Drepturile Omului și Relații Interetnice întrebarea **desființării Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității** în vederea 
    - nerespectării regulamentului propriu; 
    - a ineficienței sale față de petițiile cetățenilor, precum și 
    - duplicării funcțiilor sale de către Avocatul Poporului (_pentru ce de avut două structuri care fac același lucru?_)
