@@ -18,14 +18,14 @@ Pe 9 octombrie 2019 grupul de inițiativă civică "Pentru Istoria Moldovei" (**
 
 
 ## Cauzele afișate ale impotenței Consiliului 
-Am dori sa explicăm vederea Grupului asupra unor argumente ale Consiliului date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție: 
+Am dori sa explicăm vederea Grupului asupra unor argumente ale Consiliului date în scrisoarea de mai sus - impedimente declarate în calea obținerii unei decizii finale la petiție (citez scrisoarea de mai sus): 
 
 
 1. > Consiliul nu a ajuns la o poziție [*pro* sau *contra* n.r.] ... care sa fie susținută unanim de cel puțin 3 membri"
     * situație imposibilă în caz dacă *toți cinci* membrii ai Consiliului ar vota. Deci, *cel puțin* un membru obstrucționează votul (nu votează);
     * președintele consiliului nu a luat măsuri că în trei ani de zile să obțină acest vot;
     * Consiliul nu a explicat care sunt cauzele că aceasta (sau acele) persoane nu votează;
-2. > "subiectul abordat în speță este sensibil și ar putea avea un impact controversat" (citez scrisoarea de mai sus) 
+2. > "subiectul abordat în speță este sensibil și ar putea avea un impact controversat" 
     * Evident ca este. De aici și petiția. 
     * Petițiile "sensibile" au și fost cauza creării și însăși sensul existentei acestui Consiliu împotriva discriminării. Petiția cu Crucea din Ministerul de Interne (si câte altele), a fost și ea sensibilă, cu toate acestea, Consiliul a luata o decizie în acel caz, fără a amâna decizia la infinit. 
 3. > procedura ... a fost suspendată până la recepționarea documentului de Amicus Curiae 
