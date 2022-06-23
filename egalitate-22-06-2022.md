@@ -90,9 +90,9 @@ Analizând textele trimise de către Consiliu, suntem nevoiți sa constatam urm�
 1. consilierii nu au generat decât întrebări, reformulate din petiție, nicio analiza nu pare să fi fost făcută, cel puțin, din toate răspunsurile lor nicio analiza nu a fost constatată, nicio noua informație adusă; 
 1. cauzele acestora pot fi diverse, fie eșecul cadrelor alese pentru a studia întrebările pentru care nu au capacitați, fie tărăgănarea cointeresată a acestei întrebări etc.;
 1. indiferent de cauze, **situația nu poate continua așa**, noi acest comportament îl considerăm și îl vom trata ca abuz de putere sau/și **obstrucționarea justiției**: blocarea petiției în cadrul Consiliului obstrucționează procedurile ulterioare și rezultatele la care se așteaptă petiționarii;
-1. pentru deputații din Parlament, ar fi rezonabil de inclus pe agenta Comisiei Drepturile Omului și Relații Interetnice întrebarea **desființării Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității** în vederea 
-   - nerespectării regulamentului propriu; 
-   - a ineficienței sale față de petițiile cetățenilor, precum și 
+2. pentru deputații din Parlament, ar fi rezonabil de inclus pe ordinea de zi întrebarea **desființării sau restructurării Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității** în vederea 
+   - nerespectării regulamentului propriu si lipsa mecanismelor de obligare a respectării sale de către membrii Consiliului; 
+   - ineficienței sale in formatul actual față de petițiile cetățenilor, cum se constată în cazul petiției noastre și a altora asemenea fără de răspuns; 
    - duplicării funcțiilor sale de către Avocatul Poporului (_pentru ce de avut două structuri care fac același lucru?_)
 
 ## Ce dorim?
