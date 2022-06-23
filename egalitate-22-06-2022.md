@@ -14,7 +14,7 @@ Pe 9 octombrie 2019 grupul de inițiativă civică "Pentru Istoria Moldovei" (**
 
 În lipsa de răspuns, *Grupul* s-a adresat la Parlament (*Consiliul* raportează acestuia), prin Comisia drepturile omului și relații interetnice (**Comisia**), care a și interogat *Consiliul* in privința petiției *Grupului*. Publicăm mai jos răspunsul *Consiliului* la aceasta scrisoare, răspuns semnat de președintele Consiliului Ian FELDMAN pe 19.08.2021.
 
-<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="100%" height="300"></iframe>
+<iframe src="/istoria/assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 
 ## Cauzele afișate ale impotenței Consiliului 

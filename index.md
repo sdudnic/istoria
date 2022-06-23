@@ -27,16 +27,16 @@ A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022).
 
 ### Răspunsul Advocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
-<iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf" width="100%" height="300"></iframe>
+<iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ### Răspunsul Consiliului către CDO (Parlament)
 `19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
 
-<iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf" width="100%" height="300"></iframe>
+<iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ### Întrebarea CDO (Parlament) către Consiliu
 `19.08.2021`, în care întreabă de ce nu iau decizia
 
-<iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf" width="100%" height="300"></iframe>
+<iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 [1]: https://github.com/sdudnic/istoria/discussions
