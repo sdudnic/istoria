@@ -88,8 +88,8 @@ Acțiunile, sau, mai degrabă, inacțiunea Consulului prejudiciază inițiativa 
 Analizând textele trimise de către Consiliu, suntem nevoiți sa constatam următoarele : 
 1. consilierii, dacă și au studiat textul petiției care le-a fost adresată, fie nu l-au studiat destul de minuțios, fie nu sunt destul de competenți ca grup ca sa poată formula o *decizie* în acest sens;
 1. consilierii nu au generat decât întrebări, reformulate din petiție, nicio analiza nu pare să fi fost făcută, cel puțin, din toate răspunsurile lor nicio analiza nu a fost constatată, nicio noua informație adusă; 
-1. cauzele acestora pot fi diverse, fie eșecul cadrelor alese pentru a studia întrebările pentru care nu au capacitați, fie tărăgănarea cointeresată a acestei întrebări etc.;
-1. indiferent de cauze, **situația nu poate continua așa**, noi acest comportament îl considerăm și îl vom trata ca abuz de putere sau/și **obstrucționarea justiției**: blocarea petiției în cadrul Consiliului obstrucționează procedurile ulterioare și rezultatele la care se așteaptă petiționarii;
+1. cauzele acestora pot fi diverse, fie eșecul cadrelor alese de a studia întrebările pentru care pesemne nu au capacitați/experiență și/sau tărăgănarea cointeresată a acestei întrebări etc.;
+1. indiferent de cauze, **situația nu poate continua așa**, noi acest comportament îl considerăm și îl vom trata ca abuz de putere sau/și **obstrucționarea justiției**: blocarea petiției în cadrul *Consiliului* obstrucționează procedurile ulterioare și rezultatele la care se așteaptă petiționarii;
 2. pentru deputații din Parlament, ar fi rezonabil de inclus pe ordinea de zi întrebarea **desființării sau restructurării Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității** în vederea 
    - nerespectării regulamentului propriu si lipsa mecanismelor de obligare a respectării sale de către membrii Consiliului; 
    - ineficienței sale in formatul actual față de petițiile cetățenilor, cum se constată în cazul petiției noastre și a altora asemenea fără de răspuns; 
