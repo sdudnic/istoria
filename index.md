@@ -10,7 +10,7 @@ Textele următoare de bază sunt disponibile:
 Avem mai multe chestii de făcut în comun: 
 - traduce (sau ameliorarea traducerii) - Engleză, Franceză, Italiană, Spaniolă, Rusă etc. – pentru a putea informa comunitatea și organizațiile internaționale despre problema noastră 
 - îmbogăți conținutului petiției cu exemple similare din practica juridică internațională, cazuri similare din alte părți a lumii
-- adaugă persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!
+- adaugă persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!;
 - ai idei, opinii, sugestii 
 
 **[SCRIE-NE AICI][1]**, vom fi bucuroși de orice comentariu sau propunere!
@@ -18,12 +18,16 @@ Avem mai multe chestii de făcut în comun:
 
 ## Noutăți
 
-### Relansarea Consiliului pentru nediscriminare
-`22.06.2022` de astâzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine 
+### Cerem Comisiei parlamentare a Drepturilor Omului de a desființa Consiliul
+`23.06.2022` adresăm o scrisoare deschisa Comisiei parlamentare a Drepturilor Omului 
 
-In urma lăsării in uitare completa a petiției, a fost adresata următoarea scrisoare, deschisa, către Consiliul pentru prevenirea și eliminarea discriminării.
+In urma lăsării în uitare completă a petiției pentru Istoria Moldovei, a fost adresata scrisoare deschisă către Comisiei parlamentare a Drepturilor Omului și Consiliul pentru prevenirea și eliminarea discriminării, în care cerem reformarea sau desființarea Consiliul pentru prevenirea și eliminarea discriminării și explicam și cauzele.
 
-A citi scrisoarea integral este posibil [aici](/istoria/egalitate-22-06-2022). 
+A [citi scrisoarea integral este posibil aici](./egalitate-22-06-2022). 
+
+### Publicarea paginii web pentru petiție
+`22.06.2022` de astăzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine 
+
 
 ### Răspunsul Avocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
