@@ -102,8 +102,7 @@ Acest articol, utilizat de CEDO în cazul procesului profesorilor din Transnistr
 
 Acest subiect poate constitui o încălcare a drepturilor etnice ale populației Republicii Moldova, și posibil și o încălcare a drepturilor copiilor la o educație echitabilă.
 
-* **Declarația Universală a Drepturilor Omului** ([susa](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/rum.pdf), [Universal Declaration of Human Rights
-](https://www.un.org/en/universal-declaration-human-rights/))
+* **Declarația Universală a Drepturilor Omului** ([sursa](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/rum.pdf), [Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/))
 > Art.26(2): Învățământul trebuie să urmărească dezvoltarea deplină a personalității umane și întărirea respectului față de drepturile omului și libertățile fundamentale. El trebuie să promoveze înțelegerea, toleranța, prietenia între toate popoarele și toate grupurile rasiale [...] (3) Părinții au dreptul de prioritate în alegerea felului de învățământ pentru copiii lor minori.
 
 *pe teren* - toleranța și prietenia între popoare nu este la ordinea de zi, deoarece despre alte popoare în manualul de istorie analizat practic nici nu se pomenește. Totul este axat pe etnia româna, începând de la titlul și terminând cu conținutul. 
