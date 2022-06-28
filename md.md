@@ -3,7 +3,7 @@ Studiu:
 în contextul diversității și egalității etnice a elevilor
 
 ### Preambul
-Acest document reprezintă un studiu la obiectul discriminării etnice a elevilor din școlile Republicii Moldova de către Ministerul Educației. Ministerul impune, în curriculumul școlar, un obiect obligatoriu pentru toți elevii din Republica Moldova - "Istoria Românilor" - numit în cinstea unei singure etnii, reclamată de 6,9% din populația țării la ultimul recensământ național. Se vor analiza istoricul, situația actuala, legislația națională si internațională, în domeniu, practica altor state.
+Acest document reprezintă un studiu la obiectul discriminării etnice a elevilor din școlile Republicii Moldova de către Ministerul Educației. Ministerul impune, în curriculumul școlar, un obiect obligatoriu pentru toți elevii din Republica Moldova - "Istoria Românilor..." - numit în cinstea unei singure etnii (reclamată de 6,9% din populația țării la ultimul recensământ național). Se vor analiza istoricul, situația actuala, legislația națională si internațională, în domeniu, practica altor state.
 
 Vom analiza drept sursă de discriminare exclusiv **denumirea** obiectului de istorie, fără a ne expune opinia asupra *conținutul*ui manualelor, subiect a unui studiu eventual cu mult mai complex și subiectiv. Conținutul manualelor de istorie nu este subiect al acestui studiu și nu e menit să aducă modificări în acestea, cu toate că autorii și-ar dori, evident, și un conținut echilibrat al acestora, în care s-ar pune în evidență fapte obiective, și nu atitudini personale ale autorilor. Conținutul manualelor, va fi totuși analizat foarte succint, pentru a înțelege fondul problemei și a explica mai bine esența problematicii denumirii obiectului școlar.
 
