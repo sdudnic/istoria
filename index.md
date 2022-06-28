@@ -2,8 +2,8 @@ Petiția pentru Istoria Moldovei își dorește să aducă in R. Moldova o educa
 
 Textele următoare de bază sunt disponibile:  
 
-- [descrierea detaliată a petiției](md.md), cu detalii legislative din practica internațională; traducerea sa [în limba rusâ](ru.md), 
-- [varianta scurtă a petiției pentru Istoria Moldovei, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
+- [descrierea detaliată a petiției](md.md) - pentru specialiști, cu detalii legislative din practica internațională; traducerea sa [în limba rusă](ru.md), 
+- [varianta scurtă a petiției](https://www.petitieonline.com/history-md) - pentru publicul larg și semnarea online (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
 - [adresarea grupului de inițiativă la Consiliu](egalitate-md.md)l pentru prevenirea și eliminarea discriminării (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](egalitate-en.md), [fr](egalitate-fr.md), [ru](egalitate-ru.md)
 
 
