@@ -1,7 +1,9 @@
+Petiția pentru Istoria Moldovei își dorește să aducă in R. Moldova o educație națională inclusivă, fără ideologii naționaliste subiective. 
+
 Textele următoare de bază sunt disponibile:  
 
+- [descrierea detaliată a petiției](md.md), cu detalii legislative din practica internațională; traducerea sa [în limba rusâ](ru.md), 
 - [varianta scurtă a petiției pentru Istoria Moldovei, pentru semnarea online](https://www.petitieonline.com/history-md) (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
-- [descrierea detaliată a petiției, cu detalii legislative din practica internațională](/istoria/descriere), 
 - [adresarea grupului de inițiativă la Consiliu](/istoria/egalitate-md)l pentru prevenirea și eliminarea discriminării (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](/istoria/egalitate-en), [fr](/istoria/egalitate-fr), [ru](/istoria/egalitate-ru)
 
 
@@ -21,7 +23,7 @@ Avem mai multe chestii de făcut în comun:
 
 
 
-În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
+În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei" - petiție care cere recunoașterea discriminării în denumirea obiectului de istorie națională - petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
 
 A [citi scrisoarea deschisă este posibil aici]
 
