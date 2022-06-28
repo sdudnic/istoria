@@ -1,16 +1,15 @@
-# Studiu: Discriminare în denumirea obiectului școlar de istorie națională în R. Moldova 
+Studiu: 
+# Discriminarea în denumirea obiectului școlar de istorie națională în R. Moldova 
 în contextul diversității și egalității etnice a elevilor
 
-> Documentul, original în limba moldovenească, va fi tradus în [rusă](ru), [engleză](egalitate-en) și [franceză](fr), după finalizarea originalului. 
-
 ### Preambul
-Acest document reprezintă un studiu la obiectul discriminării etnice a elevilor din școlile Republicii Moldova de către Ministerul Educației. Ministerul impune, în curriculumul școlar, un obiect obligatoriu pentru toți elevii din Republica Moldova - "Istoria Românilor..." - numit în cinstea unei singure etnii, reclamată de 6,9% din populația țării la ultimul recensământ național. Se vor analiza istoricul, situația actuala, legislația națională si internațională, în domeniu, practica altor state.
+Acest document reprezintă un studiu la obiectul discriminării etnice a elevilor din școlile Republicii Moldova de către Ministerul Educației. Ministerul impune, în curriculumul școlar, un obiect obligatoriu pentru toți elevii din Republica Moldova - "Istoria Românilor" - numit în cinstea unei singure etnii, reclamată de 6,9% din populația țării la ultimul recensământ național. Se vor analiza istoricul, situația actuala, legislația națională si internațională, în domeniu, practica altor state.
 
 Vom analiza drept sursă de discriminare exclusiv **denumirea** obiectului de istorie, fără a ne expune opinia asupra *conținutul*ui manualelor, subiect a unui studiu eventual cu mult mai complex și subiectiv. Conținutul manualelor de istorie nu este subiect al acestui studiu și nu e menit să aducă modificări în acestea, cu toate că autorii și-ar dori, evident, și un conținut echilibrat al acestora, în care s-ar pune în evidență fapte obiective, și nu atitudini personale ale autorilor. Conținutul manualelor, va fi totuși analizat foarte succint, pentru a înțelege fondul problemei și a explica mai bine esența problematicii denumirii obiectului școlar.
 
 ## 1. Problematica generală
 Este un moment de profundă confuzie pentru părinții și elevii ce se considera Evrei, Moldoveni, Ucraineni, Ruși, Găgăuzi, sa explice copiilor la o vârstă fragedă, de ce trebuie sa învețe anume despre "români".
-În opinia noastră situația nu ar fi cu nimic mai avantajoasa dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu se merită de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
+În opinia noastră situația nu ar fi cu nimic mai avantajoasa dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu merită de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
 
 Pe când în Republica Moldova există *o limbă oficială* consfințită în Constituția Republicii, în legislație nu se constată *nicio etnie/naționalitate oficială*.
 
@@ -28,9 +27,9 @@ Din tabel se vede că în cadrul ultimului recensământ, din 2014, Moldoveni s-
 
 ## 2.	Definiții
 ### 2.1	Etnie & Naționalitate 
-În acest document, consideram noțiunile de etnie și naționalitate ca echivalente. Aceasta deoarece în documentele naționale (acte de naștere, recensăminte naționale, etc) nu există diferență între  aceste noțiuni, principiul fiind: o cetățenie – mai multe naționalități (etnii). 
+În acest document, consideram noțiunile de etnie și naționalitate ca echivalente. Aceasta deoarece în documentele naționale (acte de naștere, recensăminte naționale etc.) nu există diferență între aceste noțiuni, principiul fiind: o cetățenie – mai multe naționalități (etnii). 
 ### 2.2	Discriminare 
-Considerăm drept **discriminare etnică** ca fiind, inclusiv, dar nu numai, *preferențierea/evidențierea unui anumit grup de cetățeni față de alte grupe de cetățeni pe baza de criterii etnice/naționale, ce are ca efect avantajarea acestui grup în detrimentul celorlalte, în exprimarea drepturilor și libertăților fundamentale ale omului, în special a dreptului la educație inclusivă, a dreptului individual de a decide din care grup etnic este, sau nu este, parte, a studierii trecutului istoric comun, a recunoașterii existenței și participării indivizilor, și grupurilor etnice din care sunt, sau consideră că sunt, parte, la făurirea trecutului statului comun - Republica Moldova*.
+Considerăm drept **discriminare etnică** fiind, inclusiv, dar nu numai, *preferențierea/evidențierea unui anumit grup de cetățeni față de alte grupe de cetățeni pe baza de criterii etnice/naționale, ce are ca efect avantajarea acestui grup în detrimentul celorlalte, în exprimarea drepturilor și libertăților fundamentale ale omului, în special a dreptului la educație inclusivă, a dreptului individual de a decide din care grup etnic este, sau nu este, parte, a studierii trecutului istoric comun, a recunoașterii existenței și participării indivizilor, și grupurilor etnice din care sunt, sau consideră că sunt, parte, la făurirea trecutului statului comun - Republica Moldova*.
 
 Considerăm aceasta definiție ca una corespunzătoare la următoarele texte legale naționale si internaționale, sau străine: 
 
