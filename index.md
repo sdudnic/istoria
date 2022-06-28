@@ -21,13 +21,9 @@ Avem mai multe chestii de făcut în comun:
 
 ## Noutăți
 
-
-
 În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei" - petiție care cere recunoașterea discriminării în denumirea obiectului de istorie națională - petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
 
 A [citi scrisoarea deschisă este posibil aici]
-
-
 
 
 ### Cerem Comisiei Drepturilor Omului de a propune Parlamentului desființarea Consiliului
@@ -38,22 +34,25 @@ A [citi scrisoarea deschisă este posibil aici]
 A [citi scrisoarea deschisă este posibil aici][2]. 
 
 ### Publicarea paginii web pentru petiție
-`22.06.2022` de astăzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine 
+`22.06.2022` de astăzi publicam toate informațiile referitoare la proiect publicului interesat pe aceasta pagina, la care poate contribui oricine
 
 
 ### Răspunsul Avocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
+
 ### Răspunsul Consiliului către CDO (Parlament)
 `19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
 
 <iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
 
+
 ### Întrebarea CDO (Parlament) către Consiliu
 `19.08.2021`, în care întreabă de ce nu iau decizia
 
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
+
 
 [1]: https://github.com/sdudnic/istoria/discussions
 [2]: ./egalitate-22-06-2022

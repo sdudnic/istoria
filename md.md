@@ -10,11 +10,11 @@ Vom analiza drept sursă de discriminare exclusiv **denumirea** obiectului de is
 
 ## 1. Problematica generală
 Este un moment de profundă confuzie pentru părinții și elevii ce se considera Evrei, Moldoveni, Ucraineni, Ruși, Găgăuzi, sa explice copiilor la o vârstă fragedă, de ce trebuie sa învețe anume despre "români".
-În opinia noastră situația nu ar fi cu nimic mai avantajoasa dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu se merita de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
+În opinia noastră situația nu ar fi cu nimic mai avantajoasa dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu se merită de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
 
 Pe când în Republica Moldova există *o limbă oficială* consfințită în Constituția Republicii, în legislație nu se constată *nicio etnie/naționalitate oficială*.
 
-Recensămintele populației din anii 1989, 2004, 2014 arată ca majoritatea populației Republicii Moldova - 69-76% - se autoidentifică de naționalitate/etnie moldovenească. Componența națională/etnică a populației Republicii Moldova din următorul tabel, prezintă cifrele oficiale ale Recensământului Național al populației din anii 2004 și 2014: 
+Recensămintele populației din anii 1989, 2004, 2014 arată ca majoritatea populației Republicii Moldova - 69-76% - se auto-identifică de naționalitate/etnie moldovenească. Componența națională/etnică a populației Republicii Moldova din următorul tabel, prezintă cifrele oficiale ale Recensământului Național al populației din anii 2004 și 2014: 
 
 ![Tabelul reprezentând diferite naționalități/etnii din Republica Moldova](https://github.com/serge987/Moldova/blob/master/content/image.png?raw=true)
 
@@ -326,7 +326,7 @@ Sunt numeroase și mijloacele de informare în masă, pentru care segregarea per
 
 * Brown vs. Board of Education ([EN](https://en.wikipedia.org/wiki/Brown_v._Board_of_Education), [RU](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%BF%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E)) - procesul juridic din SUA care a recunoscut ca anti-constituțională instruirea separată a albilor și negrilor. În aceste dezbateri a fost utilizată lucrarea psihologilor Kenneth B. Clark, Mamie Clark care demonstrau ca segregarea duce la dezvoltarea a complexelor și prejudecăților infantile. Se poate de tras paralele și cu educația din Republica Moldova, unde evidențierea etnicilor români în manualele școlare ar putea crea complexe la copii de alte etnii, inclusiv a majorității moldovene.
 
-* ECHR: Case of Kjeldsen, Busk Madsen and Pedersen v. Denmark ([source, EN](https://hudoc.echr.coe.int/eng#{%22itemid%22:[%22001-57509%22]})) despre refuzul de a urma cursul de educație sexuala a copiilor în Danemarca (refuzat de CEDO).
+* ECHR: Case of Kjeldsen, Busk Madsen and Pedersen v. Denmark ([source, EN](https://hudoc.echr.coe.int/eng?i=001-57509)) despre refuzul de a urma cursul de educație sexuala a copiilor în Danemarca (refuzat de CEDO).
 
 ### 3.4 Legislația națională a altor state
 Definirea și interzicerea segregării etnice este prezentă în legislația mai multor țări a Europei. În [acest document, Annex 3. pag. 107](https://www.migpolgroup.com/wp-content/uploads/2020/04/Racial-discrimination-in-education-and-EU-equality-law.pdf) sunt rezumate definițiile segregării etnice în diferite state. 
