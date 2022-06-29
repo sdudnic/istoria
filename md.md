@@ -384,7 +384,7 @@ Recent (în august 2020), grupul de inițiativă al prezentei petiții, a contac
 
 - **Ministerului Educației**, Guvernului și Parlamentului Republicii Moldova:
 
-  - **de a de-etniza** (elimina factorul mono-etnic din) **denumirea obiectului școlar de istorie** națională, luând ca exemplu oricare altă țară din Europa. Denumiri acceptate pot fi, de exemplu "Istoria", "Istoria și Geografia"; sau "Istoria națională", "Istoria Moldovei", "Istoria Republicii Moldova" etc.;
+  - **de a de-etniza** (elimina factorul mono-etnic din) **denumirea obiectului școlar de istorie** națională, luând ca exemplu oricare altă țară din Europa. Denumiri acceptate pot fi, de exemplu "Istoria Moldovei", "Istoria", "Istoria și Geografia", "Istoria națională", "Istoria Republicii Moldova" etc.;
   - **de a modifica prezentul curriculum** pentru obiectul de Istorie, pentru a elimina angajarea politică neobiectivă și monopolul unei ideologii etnocentrice din expunerea datelor și faptelor istoriei naționale din manualele școlare;
   - de a pune în funcție o **bază normativ-juridică**, care ar împiedica funcționarii publici, actuali sau viitori, de a utiliza formulări și alte metode discriminatorii, care ar pune în preferință, sau din contra, ar neglija, grupuri de cetățeni ai R. Moldova, indiferent de apartenența lor etnică, națională, socială sau de altă natură, în cadrul educației publice de stat din Republica Moldova, pentru că toți cetățenii acestui stat sa se simtă incluși, utili, și împliniți în statul nostru comun.
 
