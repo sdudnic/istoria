@@ -388,7 +388,7 @@ Recent (în august 2020), grupul de inițiativă al prezentei petiții, a contac
   - **de a modifica prezentul curriculum** pentru obiectul de Istorie, pentru a elimina angajarea politică neobiectivă și monopolul unei ideologii etnocentrice din expunerea datelor și faptelor istoriei naționale din manualele școlare;
   - de a pune în funcție o **bază normativ-juridică**, care ar împiedica funcționarii publici, actuali sau viitori, de a utiliza formulări și alte metode discriminatorii, care ar pune în preferință, sau din contra, ar neglija, grupuri de cetățeni ai R. Moldova, indiferent de apartenența lor etnică, națională, socială sau de altă natură, în cadrul educației publice de stat din Republica Moldova, pentru că toți cetățenii acestui stat sa se simtă incluși, utili, și împliniți în statul nostru comun.
 
-## 5 Bibliografie
+## Bibliografie
 * Council of Europe, the Fifth periodic report of the Republic of Moldova on the implementation of the framework convention for the protection of national minorities [(22 May 2019)](https://rm.coe.int/5th-sr-moldova-en/168094d328)
 * Thematic review of national policies for education - Moldova, 2002; 
 * Consiliul Europei, despre discriminare și intolerantă ([în rusă]( https://www.coe.int/ru/web/compass/discrimination-and-intolerance))
