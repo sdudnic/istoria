@@ -330,12 +330,15 @@ Sunt numeroase și mijloacele de informare în masă, pentru care segregarea per
 Definirea și interzicerea segregării etnice este prezentă în legislația mai multor țări a Europei. În [acest document, Annex 3. pag. 107](https://www.migpolgroup.com/wp-content/uploads/2020/04/Racial-discrimination-in-education-and-EU-equality-law.pdf) sunt rezumate definițiile segregării etnice în diferite state. 
 
 #### *Definirea segregației în educație*
-* **Bulgaria**:  Article 5 and Additional Provision §1.6 Law on Protection Against Discrimination Racial segregation […] shall be deemed discrimination, [and] shall mean issuing an act, performing an action or omission to act, which leads to compulsory separation, differentiation or dissociation of persons based on their [...] ethnicity [...] .
-* **Croatia**: Article 5, (1) and (2) Anti-Discrimination Act Segregation shall […] deem to be discrimination […] meaning [...] a forced and systematic separation of persons on any of the grounds referred to in Article 1 paragraph 1 of [the Anti-discrimination Act]
-* **Ungaria**: Article 10 (2) and 27 (3) Antidiscrimination law. Segregation is a behaviour aimed at separating individuals or a group of persons from other individuals or another group of persons in a comparable situation, based on a characteristic defined in [the anti-discrimination law].
 * **Marea Britanie**: 
 Equality Act 2010 Section 13 (1) and (5) A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others. If the protected characteristic is race, less favourable treatment includes segregating B from others.  
 NI Race Relations Order 1997, Art. 3(2) Race Relations Order Segregating a person from other persons on racial grounds is treating him less favourably than they are treated.
+
+* **Bulgaria**:  Article 5 and Additional Provision §1.6 Law on Protection Against Discrimination Racial segregation […] shall be deemed discrimination, [and] shall mean issuing an act, performing an action or omission to act, which leads to compulsory separation, differentiation or dissociation of persons based on their [...] ethnicity [...] .
+
+* **Croatia**: Article 5, (1) and (2) Anti-Discrimination Act Segregation shall […] deem to be discrimination […] meaning [...] a forced and systematic separation of persons on any of the grounds referred to in Article 1 paragraph 1 of [the Anti-discrimination Act]
+
+* **Ungaria**: Article 10 (2) and 27 (3) Antidiscrimination law. Segregation is a behaviour aimed at separating individuals or a group of persons from other individuals or another group of persons in a comparable situation, based on a characteristic defined in [the anti-discrimination law].
 
 #### 3.4.1 România
 
