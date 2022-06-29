@@ -21,12 +21,12 @@ Avem mai multe chestii de făcut în comun:
 
 ## Noutăți
 
-### Raspunsul Comisiei Drepturilor Omului la propunerea de desființare a Consiliului
-`29.06.2022` Comisia răspunde: noi nu ne putem implica, adresați-vă în judecată sau la ministerul justiției
+### Răspunsul Comisiei Drepturilor Omului la propunerea de desființare a Consiliului
+`29.06.2022` Comisia răspunde: noi nu ne implicăm, adresați-vă în judecată sau la ministerul justiției
 <iframe src="./assets/2022_06_29_CDO-Answer-05-288.pdf#toolbar=0" width="100%" height="300"></iframe>
 <hr>
 
-### Cerem Comisiei Drepturilor Omului de a propune Parlamentului desființarea Consiliului
+### Cerere catre Comisia Drepturilor Omului de a propune Parlamentului desființarea Consiliului
 `23.06.2022` se adresează [o scrisoare][2] deschisă Comisiei parlamentare a Drepturilor Omului 
 
 În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
