@@ -424,5 +424,5 @@ https://www.coe.int/ru/web/compass/discrimination-and-intolerance))
 * Мирела-Луминита Мургеску (2002): [Переписывание школьных учебников как инструмент
 понимания и стабильности, Исследования Юго-Восточной Европы и Черного моря, 2:1, 90-
 104](https://doi.org/10.1080/14683850208454674)
-< img src="https://github.com/serge987/Moldova/blob/master/content/murgescu.jpg" alt="Мургеску,
+<img src="https://github.com/serge987/Moldova/blob/master/content/murgescu.jpg" alt="Мургеску,
 2002, Переписывая школьные учебники" width="400"/>
