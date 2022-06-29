@@ -394,5 +394,5 @@ Recent (în august 2020), grupul de inițiativă al prezentei petiții, a contac
 * Consiliul Europei, despre discriminare și intolerantă ([în rusă]( https://www.coe.int/ru/web/compass/discrimination-and-intolerance))
 * Общеполитическая рекомендация ЕКРН № 10: [Основные темы](https://rm.coe.int/-10-/16808b7670)
 * Mirela-Luminita Murgescu (2002): [Rewriting school textbooks as a tool of understanding and stability, Southeast European and Black Sea Studies, 2:1, 90-104](https://doi.org/10.1080/14683850208454674)
-<img src="https://github.com/serge987/Moldova/blob/master/content/murgescu.jpg" alt="Murgescu, 2002, Rewriting school textbooks" width="400"/>
+<img src="https://github.com/sdudnic/moldova/raw/master/content/murgescu.jpg" alt="Murgescu, 2002, Rewriting school textbooks" width="400"/>
 
