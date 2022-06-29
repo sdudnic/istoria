@@ -5,11 +5,12 @@ Studiu:
 ### Preambul
 Acest document reprezintă un studiu la obiectul discriminării etnice a elevilor din școlile Republicii Moldova de către Ministerul Educației. Ministerul impune, în curriculumul școlar, un obiect obligatoriu pentru toți elevii din Republica Moldova - "Istoria Românilor..." - numit în cinstea unei singure etnii (reclamată de 6,9% din populația țării la ultimul recensământ național). Se vor analiza istoricul, situația actuala, legislația națională si internațională, în domeniu, practica altor state.
 
-Vom analiza drept sursă de discriminare exclusiv **denumirea** obiectului de istorie, fără a ne expune opinia asupra *conținutul*ui manualelor, subiect a unui studiu eventual cu mult mai complex și subiectiv. Conținutul manualelor de istorie nu este subiect al acestui studiu și nu e menit să aducă modificări în acestea, cu toate că autorii și-ar dori, evident, și un conținut echilibrat al acestora, în care s-ar pune în evidență fapte obiective, și nu atitudini personale ale autorilor. Conținutul manualelor, va fi totuși analizat foarte succint, pentru a înțelege fondul problemei și a explica mai bine esența problematicii denumirii obiectului școlar.
+Vom analiza drept sursă de discriminare exclusiv **denumirea** obiectului de istorie, fără a ne expune opinia asupra *conținutul*ui manualelor, subiect a unui studiu eventual cu mult mai complex și subiectiv. *Conținutul* manualelor de istorie *nu este subiect* al acestui studiu și nu e menit să aducă modificări în acestea, cu toate că autorii și-ar dori, evident, și un conținut echilibrat al acestora, în care s-ar pune în evidență fapte obiective, și nu atitudini personale ale autorilor. Conținutul manualelor, va fi totuși analizat foarte succint, pentru a înțelege fondul problemei și a explica mai bine esența problematicii denumirii obiectului școlar.
 
 ## 1. Problematica generală
-Este un moment de profundă confuzie pentru părinții și elevii ce se considera Evrei, Moldoveni, Ucraineni, Ruși, Găgăuzi, sa explice copiilor la o vârstă fragedă, de ce trebuie sa învețe anume despre "români".
-În opinia noastră situația nu ar fi cu nimic mai avantajoasa dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu merită de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
+Este un moment de profundă confuzie pentru părinții și elevii ce se consideră Evrei, Moldoveni, Ucraineni, Găgăuzi, Ruși etc. să explice copiilor la o vârstă fragedă, de ce nu despre toți ei înșiși este obiectul de istorie, dar despre "români". "Nenea ministru probabil nu știa că și noi am locuit aici" - ar fi unica explicație plauzibilă. 
+
+În opinia noastră situația nu ar fi cu nimic mai avantajoasă dacă acest obiect s-ar numi "Istoria Moldovenilor", "Istoria Ucrainenilor" sau "Istoria Romilor" - în oricare din cazuri ar fi lezate sentimentele etnice ale celorlalte etnii, ce s-ar simți etnii "aparte", istoria cărora nu merită de a fi inclusă în denumire a unui obiect școlar din unele sau altele motive.
 
 Pe când în Republica Moldova există *o limbă oficială* consfințită în Constituția Republicii, în legislație nu se constată *nicio etnie/naționalitate oficială*.
 
@@ -27,13 +28,13 @@ Din tabel se vede că în cadrul ultimului recensământ, din 2014, Moldoveni s-
 
 ## 2.	Definiții
 ### 2.1	Etnie & Naționalitate 
-În acest document, consideram noțiunile de etnie și naționalitate ca echivalente. Aceasta deoarece în documentele naționale (acte de naștere, recensăminte naționale etc.) nu există diferență între aceste noțiuni, principiul fiind: o cetățenie – mai multe naționalități (etnii). 
+În acest document, considerăm noțiunile de etnie și naționalitate ca echivalente. Aceasta deoarece în documentele naționale (acte de naștere, recensăminte naționale etc.) nu există diferență între aceste noțiuni, principiul fiind: o cetățenie – mai multe naționalități (etnii). 
 ### 2.2	Discriminare 
-Considerăm drept **discriminare etnică** fiind, inclusiv, dar nu numai, *preferențierea/evidențierea unui anumit grup de cetățeni față de alte grupe de cetățeni pe baza de criterii etnice/naționale, ce are ca efect avantajarea acestui grup în detrimentul celorlalte, în exprimarea drepturilor și libertăților fundamentale ale omului, în special a dreptului la educație inclusivă, a dreptului individual de a decide din care grup etnic este, sau nu este, parte, a studierii trecutului istoric comun, a recunoașterii existenței și participării indivizilor, și grupurilor etnice din care sunt, sau consideră că sunt, parte, la făurirea trecutului statului comun - Republica Moldova*.
+>Considerăm drept **discriminare etnică** fiind, inclusiv, dar nu numai, *preferențierea/evidențierea unui anumit grup de cetățeni față de alte grupe de cetățeni pe baza de criterii etnice/naționale, ce are ca efect avantajarea acestui grup în detrimentul celorlalte, în exprimarea drepturilor și libertăților fundamentale ale omului, în special a dreptului la educație inclusivă, a dreptului individual de a decide din care grup etnic este, sau nu este, parte, a studierii trecutului istoric comun, a recunoașterii existenței și participării indivizilor, și grupurilor etnice din care sunt, sau consideră că sunt, parte, la făurirea trecutului statului comun - Republica Moldova*.
 
 Considerăm aceasta definiție ca una corespunzătoare la următoarele texte legale naționale si internaționale, sau străine: 
 
-* **Legea cu privire la asigurarea egalității** (nr. 121 din 25.05.2012 - [sursa](http://lex.justice.md/md/343361/)), definește următorii termeni: 
+* **Drepul moldovenesc**: *Legea cu privire la asigurarea egalității* (nr. 121 din 25.05.2012 - [sursa](http://lex.justice.md/md/343361/)), definește următorii termeni: 
 > * _discriminare_ – orice deosebire, excludere, restricție ori preferință în drepturi și libertăți a persoanei sau a unui grup de persoane, precum și susținerea comportamentului discriminatoriu bazat pe criteriile reale, stipulate de prezenta lege sau pe criterii presupuse;  
 > * _discriminare directă_ – tratarea unei persoane în baza oricăruia dintre criteriile prohibitive în manieră mai puțin favorabilă decât tratarea altei persoane într-o situație comparabilă;  
 > * _discriminare indirectă_ – orice prevedere, acțiune, criteriu sau practică aparent neutră care are drept efect dezavantajarea unei persoane față de o altă persoană în baza criteriilor stipulate de prezenta lege, în afară de cazul în care acea prevedere, acțiune, criteriu sau practică se justifică în mod obiectiv, printr-un scop legitim și dacă mijloacele de atingere a acelui scop sunt proporționale, adecvate și necesare;  
@@ -43,22 +44,22 @@ Considerăm aceasta definiție ca una corespunzătoare la următoarele texte leg
 
 * **Convenția internațională privind eliminarea tuturor formelor de discriminare rasială** ([sursa](https://lege5.ro/Gratuit/he2damby/conventia-internationala-privind-eliminarea-tuturor-formelor-de-discriminare-rasiala-din-21121965)) definește ***discriminarea rasială*** ca fiind "*orice deosebire, excludere, restricție sau preferință întemeiată pe rasă, culoare, ascendență sau origine națională sau etnică, care are ca scop sau efect de a distruge sau compromite recunoașterea, folosința sau exercitarea, în condiții de egalitate, a drepturilor omului și a libertăților fundamentale în domeniile politic, economic, social și cultural sau în oricare alt domeniu al vieții publice.*"
 
-* Legislația din România, utilizează, în Ordonanța de Guvern nr. 137/2000, privind prevenirea și sancționarea tuturor formelor de discriminare, în Art.2, o definiție similară, discriminarea fiind "*orice deosebire, excludere, restricție sau preferință, pe bază de rasă, naționalitate, etnie, [...] convingeri, [...]sau orice alt criteriu care are ca scop sau efect restrângerea sau înlăturarea recunoașterii, folosinței sau exercitării, în condiții de egalitate, a drepturilor omului și a libertăților fundamentale sau a drepturilor recunoscute de lege, în domeniul politic, economic, social și cultural sau în orice alte domenii ale vieții publice*" 
+* **Drepul român**: Ordonanța de Guvern nr. 137/2000, privind prevenirea și sancționarea tuturor formelor de discriminare, în Art.2, o definiție similară, discriminarea fiind "*orice deosebire, excludere, restricție sau preferință, pe bază de rasă, naționalitate, etnie, [...] convingeri, [...]sau orice alt criteriu care are ca scop sau efect restrângerea sau înlăturarea recunoașterii, folosinței sau exercitării, în condiții de egalitate, a drepturilor omului și a libertăților fundamentale sau a drepturilor recunoscute de lege, în domeniul politic, economic, social și cultural sau în orice alte domenii ale vieții publice*" 
 
-În particular, din acestea putem conclude că "discriminare rasială" poate fi definită și ca "preferință întemeiată pe origine națională sau etnică, ce are ca efect restrângerea sau înlăturarea recunoașterii, în condiții de egalitate, a drepturilor și libertăților fundamentale".
+  În particular, din acestea putem conclude că "discriminare rasială" poate fi definită și ca "preferință întemeiată pe origine națională sau etnică, ce are ca efect restrângerea sau înlăturarea recunoașterii, în condiții de egalitate, a drepturilor și libertăților fundamentale".
 
-*pe teren* se atestă că preferința etniei române de către Ministerul Educației în denumirea obiectului școlar de istorie, are ca efect compromiterea exercitării în condiții de egalitate a dreptului copiilor Republicii Moldova la descoperirea trecutului etniei/naționalității sale în cadrul spațiului comun al tuturor cetățenilor Republicii Moldova. Ca si din denumirea sau conținutul manualului de istorie națională, participarea celorlalte grupuri etnice este simțitor restrânsă, practic, înlăturată. Aceasta "preferință", cât si "restrângere" este atestată cât în denumirea manualului/obiectului școlar, cât și în conținutul manualelor și a curriculei școlare, cum vom vedea mai jos.
+  *pe teren* se atestă că preferința etniei române de către Ministerul Educației în denumirea obiectului școlar de istorie, are ca efect compromiterea exercitării în condiții de egalitate a dreptului copiilor Republicii Moldova la descoperirea trecutului etniei/naționalității sale în cadrul spațiului comun al tuturor cetățenilor Republicii Moldova. Ca și din denumirea sau conținutul manualului de istorie națională, participarea celorlalte grupuri etnice este simțitor restrânsă, practic, înlăturată. Aceasta "preferință", cât și "restrângere" este atestată cât în denumirea manualului/obiectului școlar, cât și în conținutul manualelor și a curriculei școlare, cum vom vedea mai jos.
 
-* În România, ordinul nr. 6134/2016 *privind interzicerea segregării școlare în unitățile de învățământ preuniversitar*, Art.3, definește segregarea ca fiind "*o formă gravă de discriminare și are drept consecință accesul inegal al copiilor la o educație de calitate, încălcarea exercitării în condiții de egalitate a dreptului la educație, precum și a demnității umane*"
+* **Drepul român**: Ordinul nr. 6134/2016 *privind interzicerea segregării școlare în unitățile de învățământ preuniversitar*, Art.3, definește segregarea ca fiind "*o formă gravă de discriminare și are drept consecință accesul inegal al copiilor la o educație de calitate, încălcarea exercitării în condiții de egalitate a dreptului la educație, precum și a demnității umane*"
 
 
-* **The People's Law Dictionary** de Gerald și Kathleen Hill, definește [discriminarea](https://dictionary.law.com/Default.aspx?selected=532) ca "*tratamentul inegal al persoanelor, dintr-un motiv care nu are nimic de-a face cu drepturile sau capacitatea legală*";
+* **Dreptul american**: *The People's Law Dictionary* de Gerald și Kathleen Hill, definește [discriminarea](https://dictionary.law.com/Default.aspx?selected=532) ca "*tratamentul inegal al persoanelor, dintr-un motiv care nu are nimic de-a face cu drepturile sau capacitatea legală*";
 
-Etniile/naționalitățile ne-românești sunt tratate inegal în denumirea și conținutul manualului de istorie națională, și aceasta nu are nimic de a face cu drepturile sau capacitatea legală a acelor grupuri etnice/naționale.
+  Etniile/naționalitățile ne-românești sunt tratate inegal în denumirea și conținutul manualului de istorie națională, și aceasta nu are nimic de-a face cu drepturile sau capacitatea legală a acelor grupuri etnice/naționale.
 
-* În **dreptul francez**, se indică, în [legea despre lupta contra discriminării și codul muncii](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000588617&categorieLien=id), că "*Nicio persoana nu poate fi înlăturată [...] din cauza originii, [...] apartenentei sau non-apartenentei, adevărate sau presupuse, la o etnie, națiune sau rasă*".
+* **Dreptul francez**, se indică, în [legea despre lupta contra discriminării și codul muncii](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000588617&categorieLien=id), că "*Nicio persoana nu poate fi înlăturată [...] din cauza originii, [...] apartenentei sau non-apartenentei, adevărate sau presupuse, la o etnie, națiune sau rasă*".
 
-Constatăm practic absența/înlăturarea tuturor etniilor din manualul de istorie națională, cu excepția celei române, exprimată prin simplul motiv ca despre ele aproape nu se pomenește nimic în conținutul acestor manuale, cum vom vedea mai jos.
+  Constatăm practic absența/înlăturarea tuturor etniilor din manualul de istorie națională, cu excepția celei române, exprimată prin simplul motiv că despre ele aproape nu se pomenește nimic în conținutul acestor manuale, cum vom vedea mai jos.
 
 
 ### 2.3 Subiecții discriminați
@@ -71,7 +72,7 @@ d) **familiile copiilor** din punctul (a), deoarece sunt obligați să aducă ef
 e) familiile copiilor din punctul (b). Dacă familia de moldoveni nu se considera români, ei sunt dezavantajați față de familiile conformiste cu ideologia de stat, deoarece sunt nevoiți sa facă fata dublei sarcini didactice și potențială confruntare cu posibilele conflicte între profesori, elevi și părinți referitor la aceasta ideologie;  
 f) **profesorii** de istorie, care, indiferent de naționalitate, și opinia proprie asupra acestui subiect național, sunt obligați să predea istoria cum este văzută de pe coperta manualului, și anume istoria exclusiva a etnicilor români. Cum se simte oare un profesor de istorie predând istoria românilor, care nu este, sau nu se considera, român? 
 
-Familiile ce nu doresc să educe copiii în stilul Ministerului Educației sunt discriminate față de alte familii ce se conformează ideologiei de stat. Și anume, părinții Moldovenilor ne-români trebuie sa depună efort didactic suplimentar atât pentru a contra ideologia impusă de Minister, cât și pentru a explica punctul de vedere al său, care va fi în concurență constantă cu ideile sugerate de profesori și manualul de istorie. Aceasta pune în condiții inegale familiile conformiste și nonconformiste cu ideologia de stat. Aceasta situație poate fi sursa de tensiuni potențiale suplimentare între acei elevi moldoveni și părinți, între elevi moldoveni și profesori, și între elevi moldoveni și elevii care se considera români.  
+Familiile ce nu doresc să educe copiii în stilul Ministerului Educației sunt discriminate față de alte familii ce se conformează ideologiei de stat. Și anume, părinții Moldovenilor ne-români trebuie sa depună efort didactic suplimentar atât pentru a contra ideologia impusă de Minister, cât și pentru a explica punctul de vedere al său, care va fi în concurență constantă cu ideile sugerate de profesori și manualul de istorie. Aceasta pune în condiții inegale familiile conformiste și nonconformiste cu ideologia de stat. Aceasta situație poate fi sursa de tensiuni potențiale suplimentare între acei elevi moldoveni și părinți, între elevi moldoveni și profesori, și între elevi moldoveni și elevii care se considera români.  
 
 Existența unei ideologii de stat conform căreia moldovenii sunt români, și exprimarea acesteia prin denumirea obiectului școlar, favorizează un risc sporit de conflicte atât între părinți și copii, între părinți și profesori, cât și între copii ce se considera români, și cei ce nu se consideră, inducând în caz de conflicte confuzie și tensiune în clasele școlilor din Republică.
 
@@ -138,7 +139,7 @@ Prioritatea părinților la fel nu este luată în considerare: toți copiii ind
 
 * Deschizând o paranteză, putem aminti și **Rezoluția 60/7 a Adunării Generale a ONU**, despre Memoria Holocaustului, care incita (punct 2) țările membre să elaboreze programe educative în acest sens. 
 
-*pe teren* - nici cuvântul "holocaust", nici măcar cuvântul "evre/u/i" nu se regăsește în conținutul manualului de istorie de care am amintit mai sus. În așa fel, se trece sub tăcere memoria unei din cele mai odioase crime comise în istoria omenirii. Închidem aceasta paranteza, care nu se referă nemijlocit la denumirea obiectului de istorie, ci mai mult la conținutul manualului, însă care arata că, dacă simbolic, birocrații își permit utilizarea unei asemenea denumiri unilaterale pe coperta manualului, pai conținutul nu are cum sa fie mai tolerant sau multilateral. 
+*pe teren* - nici cuvântul "holocaust", nici măcar cuvântul "evre/u/i" nu se regăsește în conținutul manualului de istorie de care am amintit mai sus. În așa fel, se trece sub tăcere memoria unei din cele mai odioase crime comise în istoria omenirii. Închidem aceasta paranteza, care nu se referă nemijlocit la denumirea obiectului de istorie, ci mai mult la conținutul manualului, însă care arată că, dacă simbolic, birocrații își permit utilizarea unei asemenea denumiri unilaterale pe coperta manualului, pai conținutul nu are cum sa fie mai tolerant sau multilateral. 
 
 #### 3.1.2 Consiliul Europei
 > "În multe țări poate exista tendința din partea grupurilor de presiune, din partea unor segmente ale opiniei publice sau din partea politicienilor de a folosi istoria ca pe un mijloc de a induce un sentiment de superioritate și, în unele cazuri, de ură față de "ceilalți", fie că aceștia sunt state sau grupuri etnice minoritare"  
@@ -146,7 +147,6 @@ Prioritatea părinților la fel nu este luată în considerare: toți copiii ind
 
 Istoria se studiază în toate statele europene. În majoritatea obiectul se numește "Istorie", în unele cazuri în denumire figurează și denumirea țării, însă în nicio țara (cel puțin din Europa) în afara Moldovei nu se specifica vreo denumire de etnie: ([studiu](https://www.dudnic.com/2019/11/denumirea-obiectului-scolar-de-istorie.html)) ![Harta denumirii obiectului școlar de istorie în tarile Europei](https://1.bp.blogspot.com/-t7isTU3M-cg/XdgojmtC-WI/AAAAAAABI-4/d5hZZtU6GKQFoiW0GSUwlF0N1Ep-WVXQwCLcBGAsYHQ/s1600/%2521ro.png)
 Fig.3 Denumirea obiectului școlar de istorie în țările Europei
-
 
 Pentru elevii cu vârste între 10 și 14 ani studiul istoriei este obligatoriu în toate școlile din Europa, iar diferențele apar în legătură cu momentul de debut al studiului (la 5, 7 sau 10 ani), precum și în ceea ce privește vârsta la care istoria devine obiect de studiu opțional (14, 15 sau 17 ani). Alte diferențe se referă la timpul de învățare alocat săptămânal (între 45 și peste 90 de minute), la forma – disciplinară sau integrată de studiu, precum și la modelul de construire al programelor școlare: liniar, concentric sau în spirală. Pe de altă parte, alte elemente comune înregistrate de studiul menționat se referă la tendințele comune cu privire la finalitățile studiului istoriei – înțelegerea de către elevi a lumii în care trăiesc, contribuția la dezvoltarea cetățeniei europene și la dezvoltarea gândirii critice, precum și la renunțarea la criteriul cronologic de organizare a conținuturilor în favoarea celui tematic (EUROCLIO, 2003, [link](http://hiphi.ubbcluj.ro/studii/Public/File/cursuri/suporturi_conversie/Didactica-istoriei_I.pdf)).
 
@@ -185,7 +185,7 @@ Dăm mai jos o listă non-exhaustivă a convențiilor și textelor juridice ale 
 
 > Art.7 Părțile vor asigura respectarea drepturilor [...] la _libertatea de gândire_...
 
-> Art.12 Părțile [...] vor lua măsuri în domeniul educației și al cercetării, pentru a încuraja cunoașterea culturii, istoriei, limbii și religiei atât ale minorităților lor naționale, cit și ale majorității
+> Art.12 Părțile [...] vor lua măsuri în domeniul educației și al cercetării, pentru a încuraja cunoașterea culturii, istoriei, limbii și religiei atât ale minorităților lor naționale, cât și ale majorității
 
 *pe teren* sistemul educativ național a monopolizat studiul istoriei unei singure componente etnice naționale, care nu e nici măcar majoritară. 
 
@@ -205,11 +205,11 @@ informația istorică în mod critic și responsabil, pe calea dialogului, prin 
 - un subiect controversat și sensibil este _identitatea națională_. Ideea ca identitatea este "româna" se impune elevului direct din titlul manualului. Despre care analiza critică sau dialog este atunci vorba?
 - "cetățenii Europei" în Republica Moldova sunt denumiți, conform titlului manualului "români". Acest clișeu apare în fața copilului chiar și atunci când manualul este închis, direct de pe coperta. Despre care identitate "proprie" poate sa viseze un elev-cetățean ce se considera moldovean, nu și român? Acest clișeu, impus de unele cercuri academice naționaliste, la minister este considerat drept unicul corect și unicul promovat oficial în manualele școlare.
 
-> "2. Manipularea istoriei  
-Predarea istoriei nu trebuie să fie un instrument de manipulare în scop ideologic, de propagandă sau să fie utilizată pentru promovarea ideilor intolerantei, a celor ultranaționaliste, xenofobe sau a antisemitismului."
+> "2. Manipularea istoriei
+> Predarea istoriei nu trebuie să fie un instrument de manipulare în scop ideologic, de propagandă sau să fie utilizată pentru promovarea ideilor intolerantei, a celor ultranaționaliste, xenofobe sau a antisemitismului"
 
 *pe teren* putem constata următoarele: 
-- ideologia etniei "române" (promovate de cercurile ultranaționaliste academice și politice), se sugerează tânărului elev direct și fără ocolișuri, de pe însăși coperta manualului, promovând ideea că unica istorie ce se merita de învățat la nivel național este cel al etniei române, dovada faptului este că titlul manualului include unicul și singurul etnonim: "românilor" excluzând alte elemente etnice din contextul istoriei naționale a poporului multietnic al Republicii Moldova, inclusiv, și poate, în special, pentru elevii ce și-ar dori să afirme identitatea majoritară - "moldovenească", indiferent dacă o considera distinctă sau nu de cea "română". Așa idei "incorecte" sunt eradicate din start și încurajate de a fi privite cu ironie și dispreț, manifestând discriminarea lor, de unde și vine acest demers către autorități.
+- ideologia etniei "române" (promovate de cercurile ultranaționaliste academice și politice), se sugerează tânărului elev direct și fără ocolișuri, de pe însăși coperta manualului, promovând ideea că unica istorie ce merită de învățat la nivel național este cel al etniei române, dovada faptului este că titlul manualului include unicul și singurul etnonim: "românilor" excluzând alte elemente etnice din contextul istoriei naționale a poporului multietnic al Republicii Moldova, inclusiv, și poate, în special, pentru elevii ce și-ar dori să afirme identitatea majoritară - "moldovenească", indiferent dacă o considera distinctă sau nu de cea "română". Așa idei "incorecte" sunt eradicate din start și încurajate de a fi privite cu ironie și dispreț, manifestând discriminarea lor, de unde și vine acest demers către autorități.
 
 - se promovează prin denumirea manualului de istorie idea că "național" - "istoria națională" - este echivalent cu "român" - "istoria românilor". Așadar, se ignora explicit opiniile majorității moldovenilor, exprimate în recensămintele naționale, privitor la identitatea lor națională - "moldovenească". 
 
@@ -241,7 +241,7 @@ Fig.4 Pagină din manualul de istorie adăugând "cea Română" la denumirea ofi
 
 * **Memorandumul pentru educația permanentă**, elaborat de Uniunea Europeană în 2000 [sursa MD](https://usarb.md/wp-content/uploads/2019/03/Memorandum-asupra-invatarii-permanente-din-30_10_2000_Bruxelles.pdf), [A Memorandum on Lifelong Learning, EN](https://uil.unesco.org/i/doc/lifelong-learning/policies/european-communities-a-memorandum-on-lifelong-learning.pdf) stipulează (punct 2) că "indivizii [...] trebuie să învețe să accepte diversitatea culturală, etnică și lingvistică". 
 
-*pe teren* - acest principiu nu se reflectă nici în denumirea obiectului școlar, nici în conținutul manualelor de istorie, nici în curricula de istorie adoptată de Ministerul Educației. "Diversitatea" etnică în manuale și curricula se rezumă la "român", iar în conținutul manualului nu prea găsim nici limba, nici cultura minorităților, și abia dacă în genere găsim pomenire de aceste minorități, cum am putut vedea în exemplele de mai sus.
+*pe teren* - acest principiu nu se reflectă nici în denumirea obiectului școlar, nici în conținutul manualelor de istorie, nici în curicula de istorie adoptată de Ministerul Educației. "Diversitatea" etnică în manuale și curicula se rezumă la "român", iar în conținutul manualului nu prea găsim nici limba, nici cultura minorităților, și abia dacă în genere găsim pomenire de aceste minorități, cum am putut vedea în exemplele de mai sus.
 
 * **Tratatul de la Amsterdam** (1997) – permite adoptarea de către toate statele membre ale Comunității Europene a tuturor mijloacelor adecvate pentru a lupta împotriva discriminării pe motive de etnie sau convingeri;
 
@@ -257,7 +257,7 @@ Art.21(1) Se interzice discriminarea de orice fel, bazată pe motive precum [...
 Art.24(1) Copiii [...] își pot exprima în mod liber opinia. Aceasta se ia în considerare în problemele care îi privesc, în funcție de vârsta și gradul lor de maturitate.  
 (2) În toate acțiunile referitoare la copii, indiferent dacă sunt realizate de autorități publice sau de instituții private, interesul superior al copilului trebuie să fie considerat primordial.
 
-* **Rezoluția Parlamentului European din 7 februarie 2018** referitoare la protecție și nediscriminare în ceea ce privește minoritățile în statele membre ale UE (2017/2937(RSP)) [EN](https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=CELEX:52018IP0032&qid=1599249280140&from=EN) indică că "discriminarea bazată pe originea etnică este menționată ca cea mai des întâlnită formă de discriminare"
+* **Rezoluția Parlamentului European din 7 februarie 2018** referitoare la protecție și nediscriminare în ceea ce privește minoritățile în statele membre ale UE (2017/2937(RSP)) [EN](https://eur-lex.europa.eu/legal-content/RO/TXT/HTML/?uri=CELEX:52018IP0032&qid=1599249280140&from=EN) indică "discriminarea bazată pe originea etnică este menționată ca cea mai des întâlnită formă de discriminare"
 
 #### 3.1.5 USA
 * [**Legislația statului Washington**](https://app.leg.wa.gov/RCW/default.aspx?cite=28A.230.020) impune școlilor următoarele restricții de curriculă: "Toate școlile generale vor oferi instrucțiuni de [...], geografie, istoria Statelor Unite, gramatică engleză, [...]", deci, dacă o scoală ar impune "istoria americanilor" în locul celei "a Statelor Unite", aceasta ar putea constitui un motiv de litigiu judiciar.
@@ -284,19 +284,19 @@ Art.24(1) Copiii [...] își pot exprima în mod liber opinia. Aceasta se ia în
 
 *pe teren* - libertatea conștiinței este limitata de ideologia românismului, predata oficial în manualele școlare. Lipsa de alternativă a ideologiei de stat nu favorizează dezvoltarea libertății conștiinței. Familiile în care punctul de vedere este diferit decât cel oficial sunt defavorizate fata de cele care se conformează acestuia, deoarece copiii din aceste familii nimeresc în situații confuze, și au nevoie de eforturi mai mari pentru a asimila materialul școlar.
 * **Legea cu privire la asigurarea egalității** (nr. 121 din 25.05.2012), a fost deja menționată mai sus cu definirea discriminării. Alte puncte din aceasta lege, menționează: 
-> Formele grave ale discriminării sînt:  
-    a) promovarea sau practicarea discriminării de către autoritățile publice;  
-    b) susținerea discriminării prin intermediul mijloacelor de informare în masă;  
-    c) amplasarea mesajelor și simbolurilor discriminatorii în locurile publice;  
-    d) discriminarea persoanelor pe baza a două sau mai multe criterii;  
-    e) discriminarea săvîrşită de două sau mai multe persoane;  
-    f) discriminarea săvîrşită de două sau mai multe ori;  
-    g) discriminarea săvîrşită asupra unui grup de persoane;  
-    h) segregarea rasială.
+> Formele grave ale discriminării sînt:
+>   a) promovarea sau practicarea discriminării de către autoritățile publice;
+>   b) susținerea discriminării prin intermediul mijloacelor de informare în masă;
+>   c) amplasarea mesajelor și simbolurilor discriminatorii în locurile publice;
+>   d) discriminarea persoanelor pe baza a două sau mai multe criterii;
+>   e) discriminarea săvîrşită de două sau mai multe persoane;
+>   f) discriminarea săvîrşită de două sau mai multe ori;
+>   g) discriminarea săvîrşită asupra unui grup de persoane;
+>   h) segregarea rasială.
 
 *pe teren* – Ministerul Educației, evidențiază un singur grup etnic/național, pe coperta manualelor, care apar în sălile de clasă a școlilor naționale, în librăriile publice etc.
 
-Sunt numeroase și mijloacele de informare în masă, pentru care segregarea persoanelor de o singura etnie în diverse proiecte politice republicane și extra-republicane a devenit o normă. Una din cauzele principale ale acestor comportamente marginale este educația națională a tinerilor cetățeni, care se inspira din istorie pentru a construi un viitor, unicitatea căruia este indiscutabilă și alternativa căruia nu se analizează de sistemul educațional în materie de istorie.
+Sunt numeroase și mijloacele de informare în masă, pentru care segregarea persoanelor de o singura etnie în diverse proiecte politice republicane și extra republicane a devenit o normă. Una din cauzele principale ale acestor comportamente marginale este educația națională a tinerilor cetățeni, care se inspiră din istorie pentru a construi un viitor, unicitatea căruia este indiscutabilă și alternativa căruia nu se analizează de sistemul educațional în materie de istorie.
 
 * **Legea privind drepturile copilului** (nr. 338 din 15.12.1994 - [sursa](https://www.legis.md/cautare/getResults?doc_id=94939&lang=ro)):
 > * Art.3 Toți copiii sunt _egali_ în drepturi _fără deosebire de naționalitate, origine etnică_, sex, limbă, [...] convingeri...
@@ -342,11 +342,11 @@ NI Race Relations Order 1997, Art. 3(2) Race Relations Order Segregating a perso
 În România vecină, odată cu aderarea țării la UE (2007), obiectul școlar de "Istoria Românilor" a fost "europenizat", stârnind valuri de nemulțumiri în lumea academică din țară [articol 03/02/2006](https://www.ziaruldeiasi.ro/iasi/laquo-istoria-romanilorraquo-va-disparea-ca-disciplina-scolara-la-liceu~ni3un1) 
 
 În al treilea raport despre România al ECRI (Comisia Europeană împotriva Rasismului și Intoleranței), adoptat pe 24 iunie 2005, se notează ([pag.81](https://rm.coe.int/third-report-on-romania-romanian-translation-/16808b5b92)): 
-> "ECRI notează că în ciuda măsurilor mai sus-menționate, pe care le întâmpină cu bucurie, rămân multe lucruri de făcut în domeniul educației. Organizații nonguvernamentale încă deplâng faptul că manualele școlare românești conțin stereotipuri și prejudecăți despre grupurile minoritare. Unele manuale, de exemplu, continuă să descrie sosirea în România a unor “hoarde de nomazi barbari care au venit dinspre est pentru a răspândi teroare", iar maghiarii sunt uneori descriși ca străini care au ocupat Transilvania. ECRI mai notează că numele cursului de istorie predat elevilor români este "Istoria românilor", și nu "Istoria României". S-ar părea de asemenea că deși cele mai multe referiri ofensatoare la adresa rromilor au fost șterse din manualele școlare, se acordă în continuare prea puțină atenție contribuției lor la dezvoltarea societății românești"
+> "ECRI notează că în ciuda măsurilor mai sus menționate, pe care le întâmpină cu bucurie, rămân multe lucruri de făcut în domeniul educației. Organizații nonguvernamentale încă deplâng faptul că manualele școlare românești conțin stereotipuri și prejudecăți despre grupurile minoritare. Unele manuale, de exemplu, continuă să descrie sosirea în România a unor “hoarde de nomazi barbari care au venit dinspre est pentru a răspândi teroare", iar maghiarii sunt uneori descriși ca străini care au ocupat Transilvania. ECRI mai notează că numele cursului de istorie predat elevilor români este "Istoria românilor", și nu "Istoria României". S-ar părea de asemenea că deși cele mai multe referiri ofensatoare la adresa rromilor au fost șterse din manualele școlare, se acordă în continuare prea puțină atenție contribuției lor la dezvoltarea societății românești"
 
 Iată cum răspunde Ministerul Educației și Cercetării la remarcile ECRI ([sursa](https://rm.coe.int/government-comments-on-the-third-report-on-romania-romanian-translatio/16808b5b9b)):
 
-> "În ceea ce privește denumirea disciplinei „Istoria românilor”, și nu „Istoria României”, precizăm că acesta a fost stabilită imediat după anul 1989 și a ținut cont de anumite particularități ale istoriei naționale (denumirea statului –România - a apărut la jumătatea sec. al XIX-lea și, prin urmare, "Istoria României" ar include numai ultimul secol și jumătate). Ținând însă cont de recomandările Consiliului Europei, România a introdus din anul școlar 2004-2005, cursuri de istorie integrată, denumite „Istorie”. Odată cu introducerea noilor programe pentru clasele a VIII-a și a XII-a, în următorii ani va dispărea și sintagma "Istoria românilor". În noile programe vor fi introduse noi teme privind istoria minorităților din România și a minorității române în țările vecine."
+> "În ceea ce privește denumirea disciplinei „Istoria românilor”, și nu „Istoria României”, precizăm că acesta a fost stabilită imediat după anul 1989 și a ținut cont de anumite particularități ale istoriei naționale (denumirea statului – România - a apărut la jumătatea sec. al XIX-lea și, prin urmare, "Istoria României" ar include numai ultimul secol și jumătate). Ținând însă cont de recomandările Consiliului Europei, România a introdus din anul școlar 2004-2005, cursuri de istorie integrată, denumite „Istorie”. Odată cu introducerea noilor programe pentru clasele a VIII-a și a XII-a, în următorii ani va dispărea și sintagma "Istoria românilor". În noile programe vor fi introduse noi teme privind istoria minorităților din România și a minorității române în țările vecine."
 
 *Legea educației naționale 1/2011*, care garantează educația bazată pe principiul echității, garantării identității culturale, recunoașterii și garantării drepturilor persoanelor aparținând minorităților naționale, dreptul la păstrarea, la dezvoltarea și la exprimarea identității lor etnice, culturale, lingvistice și religioase, principiul asigurării egalității de șanse, principiul libertății de gândire și al independenței față de ideologii, dogme religioase și doctrine politice, principiul incluziunii sociale, principiul organizării învățământului confesional potrivit cerințelor specifice fiecărui cult recunoscut (art.3);
 
@@ -365,7 +365,7 @@ Astfel, în anii 2006-2009, în R. Moldova au fost utilizate noile manuale de is
 
 În 2012, Asociația Istoricilor și Politologilor PRO-Moldova, în frunte cu directorul executiv al acesteia, istoricul Sergiu Nazaria, se adresează cu o cerere la Curtea de Apel (CA) a RM prin care cer anularea ordinului Ministerului Educației privind introducerea în programele școlare a obiectului "Istoria Românilor". Curtea examinează cererea pe 7 septembrie și respinge acțiunea, considerând-o nefondată și care nu ține de competența ei. Asociația depune atunci un recurs la Curtea Supremă de Justiție acțiunile continua până în 2014, fără niciun rezultat. 
 
-În februarie 2020, la Chișinău s-a desfășurat Conferința internațională "Educația istorică în Moldova Independentă: experiența națională și internațională", organizată de Asociația Istoricilor și Politologilor "PRO-Moldova", în care s-a reiterat ca Moldova rămâne unicul stat în cu istorie monoetnică în școli.  
+În februarie 2020, la Chișinău s-a desfășurat Conferința internațională "Educația istorică în Moldova Independentă: experiența națională și internațională", organizată de Asociația Istoricilor și Politologilor "PRO-Moldova", în care s-a reiterat ca Moldova rămâne unicul stat în cu istorie mono etnică în școli.  
 
 Recent (în august 2020), grupul de inițiativă al prezentei petiții, a contactat specialiști ai institutului german "Institutul Georg Eckert - Institutul Leibniz pentru Cercetarea Internațională a manualelor", menționat mai sus, care i-au confirmat, că sunt, citez "perfect de acord că denumirea de 'Istoria românilor' este exclusivă și nu contribuie la o educație fără discriminare etnică, așa cum preconizează toate recomandările europene în acest sens".
 
@@ -391,3 +391,4 @@ Recent (în august 2020), grupul de inițiativă al prezentei petiții, a contac
 * Общеполитическая рекомендация ЕКРН № 10: [Основные темы](https://rm.coe.int/-10-/16808b7670)
 * Mirela-Luminita Murgescu (2002): [Rewriting school textbooks as a tool of understanding and stability, Southeast European and Black Sea Studies, 2:1, 90-104](https://doi.org/10.1080/14683850208454674)
 <img src="https://github.com/serge987/Moldova/blob/master/content/murgescu.jpg" alt="Murgescu, 2002, Rewriting school textbooks" width="400"/>
+
