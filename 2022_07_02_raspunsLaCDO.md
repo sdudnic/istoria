@@ -31,8 +31,7 @@ Va mulțumim pentru lucrul dvs.
 
 Cu respect,
 
-Sergiu DUDNIC
-
+Sergiu DUDNIC  
 grupul "pentru Istoria Moldovei"
 
 ---
