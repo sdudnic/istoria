@@ -33,11 +33,3 @@ Cu respect,
 
 Sergiu DUDNIC  
 grupul "pentru Istoria Moldovei"
-
----
-
-PS. In caz dacă Consiliul, Parlamentul, continua sa ne ignoreze/fotbaleze, ne vom re(adresa) către organismele europene si internaționale, ne gândim în primul rând la ECRI a CE, cu tot istoricul acestor allez-rétour, în volum de Biblie cu Testamentul Vechi si cel Nou, de câte va fi nevoie pentru ca aceste cerințe sa vina nu din partea grupului nostru, ci din partea structurilor ONU si Europene de monitorizare a respectării drepturilor omului. Amintim că până acum în trei ani nu am avut ABSOLUT niciun răspuns care sa fie legat NEMIJLOCIT DE SUBIECTul petiției în sine, da Statul ne-a înglodat in birocrație, si în loc noi sa ne ocupam de treaba noastră, trebuie sa număram cate voturi îi lipsesc Consiliului, sa îi explicam regulamentul de funcționare proprie a Ombudsmanului, etc.
-
----
-
-PPS. Eu înțeleg ca d-lui Novac, fiind in opoziție, ar fi convenabil sa fie criticata conducerea actuala si de către CE, si ar lăsa totul balta, însă cred în omenia deputaților noștri, si cu toate că nu toate subiectele sunt pe plac tuturor deputaților, ar trebui sa se învețe în a trai într-o democrație si de mai făcut si lucruri care ar părea neplăcute sau inutile la prima vedere. 
