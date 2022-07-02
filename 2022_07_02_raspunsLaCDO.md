@@ -32,3 +32,5 @@ Cu respect,
 
 Sergiu DUDNIC  
 grupul "pentru Istoria Moldovei"
+
+<iframe src="./assets/2022_06_29_CDO-Answer-05-288.pdf#toolbar=0" width="100%" height="300"></iframe>

@@ -22,7 +22,7 @@ Avem mai multe chestii de făcut în comun:
 ## Noutăți
 
 ### Grupul cere Parlamentului modificarea legii cu privire la activitatea Consiliului
-`02.07.2022` Grupul cere Parlamentului modificarea legii 298 cu privire la activitatea Consiliului pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii
+`02.07.2022` Grupul cere Parlamentului modificarea legii 298 cu privire la activitatea Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității
 
 Cauza invocata de grup este ca funcționarea Consiliului cu regulile de joc actuale duce la abuzuri si la cazuri de petiții nesoluționate ori de cate ori Consilierii nu au dorința de a decide pe un subiect "sensibil" ([detalii aici](2022_07_02_raspunsLaCDO.md))
 
