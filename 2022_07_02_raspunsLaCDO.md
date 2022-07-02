@@ -12,12 +12,12 @@ In legătură cu aceasta ținem să vă comunicăm următoarele:
 - După experiența, este foarte probabil, ca experții judecătorul sa ne trimită la Ombudsmen, spunând ca nu e competenta lor evaluarea discriminării. Ombudsmenul deja ne-a spus ca nu rezolva petiții duplicate de Consiliu, și cu hora, cum zice președinta noastră, româneasca, o sa mai treacă douăzeci de ani si problema va fi soluționată în fine, când o sa fie "unirea" și cum în România, nu exista așa obiect istoria românilor, problema va fi soluționată de facto. Noi totuși sperăm la o soluție în Republica Moldova.
 - Numai voi, Parlamentarii, puteți introduce modificări în legea "Nr. 298 din 21-12-2012 cu privire la activitatea Consiliului pentru prevenirea și eliminarea discriminării şi asigurarea egalității", doar vedeți ca Consiliul cu legea în vigoare nu-și îndeplinește funcțiile, în mod repetat, cronic, și dacă nu le face înseamnă ca mecanismul e defectuos, și ceva trebuie de modificat ca el sa lucreze pentru noi, și pentru alții care vor face petiții similare pe viitor. 
 - Va propunem să analizați și să propuneți modificări la art 64 din legea susnumita care suna așa "Decizia se adoptă cu votul a 3 membri ai Consiliului și este semnată de membrii care au participat la adoptarea acesteia. În caz de paritate a voturilor, se consideră că decizia nu a fost adoptată, iar examinarea cauzei se amînă."
-- Articolul respectiv permite o amânare indefinita a soluției unei petiții, și trebuie concretizat pentru ca petiționarul să nu dea duba de bătrânețe înainte ca cazul sau sa fie, în final, soluționat
+- Articolul respectiv permite o amânare indefinita a soluției unei petiții, și trebuie concretizat pentru că petiționarul să nu dea duba de bătrânețe înainte ca cazul sau sa fie, în final, soluționat
 - Va atragem atenția, ca se vorbește de paritate de voturi, însă legea 298 nu precizează numărul de persoane din Consiliu. Aceasta o face Legea Nr. 121 din 25-05-2012 cu privire la asigurarea egalității, în care se specifica (art.11(2)) componența consiliului în număr de 5 persoane. 
   - ca paranteza, notăm ingeniozitatea persoanei care a decis ca structura Consiliului trebuie sa fie definită de doua legi diferite, una care spune ce face președintele (L298), și alta lege care spune cate persoane sunt în Consiliu (L121)
   - Când articolul 64 citat mai sus vorbește de o posibilă "paritate" a voturilor într-un Consiliu alcătuit din 5 persoane, se are probabil în vedere cazul când o persoana a consiliului lipsește (minimum 4 persoane reprezinta o reuniune deliberativă - L.298-art 11)
 - Propunem de a fi introduse modificări la legea 298 menționată mai sus după cum urmează:
-  - Art 7: punctul i) devine j), iar în locul sau se adaugă un punct la lista existentă a atribuțiilor președintelui, după cum urmează: "i) este garantul respectării termenelor de soluționare a petițiilor prevăzute de prezenta lege;"
+  - Art 7: punctul i) devine j), iar în locul punctului (i) se adaugă un punct la lista existentă a atribuțiilor președintelui, după cum urmează: "i) este garantul respectării termenelor de soluționare a petițiilor prevăzute de prezenta lege;"
   - Art 51: se înlocuiește sintagma "pînă la 45 de zile" prin "pînă la maximum 45 de zile";
   - Art 64: textul articolului se înlocuiește cu următorul conținut:  
   "64. Decizia se adoptă cu votul a cel puțin 3 membri ai Consiliului și este semnată de membrii care au participat la adoptarea acesteia. În caz de paritate sau insuficiență a voturilor: 
@@ -26,7 +26,8 @@ In legătură cu aceasta ținem să vă comunicăm următoarele:
 - Indiferent de modificările date, de a cere Consiliului să prezinte o lista de petiții care sunt la moment moarte, și sa propună termeni concreți de soluționare a fiecăreia din ele. Nicio petiție acceptata de Consiliu nu trebuie sa fie blocata de acesta. Dacă petiția nu e admisibila, sa fie respinsa, însă odată ce a fost acceptata de Consiliu, sa fie buni sa răspundă la ele, în termenii stabiliți de lege.
 
 Va mulțumim pentru lucrul dvs.
----
+
+--
 
 Cu respect,
 
