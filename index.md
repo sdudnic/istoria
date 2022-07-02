@@ -22,6 +22,11 @@ Avem mai multe chestii de făcut în comun:
 ## Noutăți
 
 ### Răspunsul Comisiei Drepturilor Omului la propunerea de desființare a Consiliului
+`02.07.2022` Grupul cere Parlamentului modificarea legii 298 cu privire la activitatea Consiliului pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii
+
+Cauza invocata de grup este ca funcționarea Consiliului cu regulile de joc actuale duce la abuzuri si la cazuri de petiții nesoluționate ori de cate ori Consilierii nu au dorința de a decide pe un subiect "sensibil" ([detalii aici](2022_07_02_raspunsLaCDO.md))
+
+### Răspunsul Comisiei Drepturilor Omului la propunerea de desființare a Consiliului
 `29.06.2022` Comisia răspunde: noi nu ne implicăm, adresați-vă în judecată sau la ministerul justiției
 <iframe src="./assets/2022_06_29_CDO-Answer-05-288.pdf#toolbar=0" width="100%" height="300"></iframe>
 <hr>
