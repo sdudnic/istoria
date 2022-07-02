@@ -40,4 +40,4 @@ PS. In caz dacă Consiliul, Parlamentul, continua sa ne ignoreze/fotbaleze, ne v
 
 ---
 
-PPS. Eu înțeleg ca d-lui Novac, fiind in opoziție, ar fi convenabil sa fie criticata conducerea actuala si de către CE, si ar lăsa totul balta, însă cred în omenia deputaților noștri, cu toate ca nu le place subiectul, trebuie sa va învățați a trai într-o democrație si sa mai faceți si lucruri care ar părea neplăcute sau chiar inutile la prima vedere. 
+PPS. Eu înțeleg ca d-lui Novac, fiind in opoziție, ar fi convenabil sa fie criticata conducerea actuala si de către CE, si ar lăsa totul balta, însă cred în omenia deputaților noștri, si cu toate că nu toate subiectele sunt pe plac tuturor deputaților, ar trebui sa se învețe în a trai într-o democrație si de mai făcut si lucruri care ar părea neplăcute sau inutile la prima vedere. 
