@@ -27,9 +27,12 @@ Am primit răspunsul Dvs și va mulțumim pentru ca ați răspuns la adresare, c
 
 Va mulțumim pentru lucrul dvs.
 
+---
+
 Cu respect,
 
 Sergiu DUDNIC
+
 grupul "pentru Istoria Moldovei"
 
 ---
