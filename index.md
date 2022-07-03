@@ -41,6 +41,12 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
+### Răspunsul Ministerului Educației la interogarea președinției  
+`11.10.2021`, în care ne explică spațiile teoretice ale curiculei (spații care nu au nicio legătură cu denumirea obiectului și deci nici cu petiția) și ne trimite cultural să ne căutăm de treabă
+<iframe src="./assets/2021_10_11_AnswerMinister.pdf#toolbar=0" width="100%" height="300"></iframe>
+
+---
+
 
 ### Răspunsul Consiliului către CDO (Parlament)
 `19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
