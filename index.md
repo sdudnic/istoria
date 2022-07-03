@@ -21,7 +21,7 @@ Cauza invocata de grup este ca funcționarea Consiliului cu regulile de joc actu
 
 ---
 
-### Cerere catre Comisia Drepturilor Omului de a propune Parlamentului desființarea Consiliului
+### Cerere către Comisia Drepturilor Omului de a propune Parlamentului desființarea Consiliului
 `23.06.2022` se adresează [o scrisoare][2] deschisă Comisiei parlamentare a Drepturilor Omului 
 
 În urma lipsei de decizie în cazul petiției "Pentru Istoria Moldovei", care cere recunoașterea discriminării în denumirea obiectului de istorie națională, petiționarii au adresat o scrisoare deschisă Comisiei parlamentare a Drepturilor Omului în care cer să fie discutată în Parlament reformarea sau desființarea Consiliului pentru prevenirea și eliminarea discriminării, din cauza, după opinia lor, a ineficienței acestei structuri de stat, menită să protejeze drepturile omului în domeniul discriminării.
@@ -41,6 +41,7 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
+
 ### Răspunsul Ministerului Educației la interogarea președinției  
 `11.10.2021`, în care ne explică spațiile teoretice ale curiculei (spații care nu au nicio legătură cu denumirea obiectului și deci nici cu petiția) și ne trimite cultural să ne căutăm de treabă
 <iframe src="./assets/2021_10_11_AnswerMinister.pdf#toolbar=0" width="100%" height="300"></iframe>
@@ -51,17 +52,15 @@ A [citi scrisoarea deschisă este posibil aici][2].
 ---
 
 
-### Răspunsul Consiliului către CDO (Parlament)
-`19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
-
-<iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
-
----
-
 ### Întrebarea CDO (Parlament) către Consiliu
 `19.08.2021`, în care întreabă de ce nu iau decizia
 
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
+
+#### Răspunsul Consiliului către CDO (Parlament)
+`19.08.2021`, în care încearcă să explice de ce nu iau nicio decizie
+
+<iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
 
