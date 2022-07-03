@@ -46,7 +46,7 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2021_10_11_AnswerMinister.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 #### Răspunsul Grupului de inițiativă către președinție și Minister (rămas fără niciun retur din partea adresaților)
-`13.10.2021` prin care arătam ca nu exista nicio legătură intre răspunsul lor si întrebarea noastră, se poate integral citi aici
+`13.10.2021` prin care arătam ca nu exista nicio legătură intre răspunsul lor și întrebarea noastră, se poate integral citi [aici](2021_10_13_raspunsLaMinisterPresedintie.md)
 
 ---
 
