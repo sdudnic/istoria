@@ -2,22 +2,9 @@ Petiția pentru Istoria Moldovei își dorește să aducă in R. Moldova o educa
 
 Textele următoare de bază sunt disponibile:  
 
-- [descrierea detaliată a petiției](md.md) - pentru specialiști, cu detalii legislative din practica internațională; traducerea sa [în limba rusă](ru.md), 
-- [varianta scurtă a petiției](https://www.petitieonline.com/history-md) - pentru publicul larg și semnarea online (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
+- [descrierea **detaliată** a petiției](md.md) - pentru specialiști, cu detalii legislative din practica internațională; traducerea sa [în limba rusă](ru.md), 
+- [varianta **scurtă** a petiției](https://www.petitieonline.com/history-md) - pentru publicul larg și semnarea online (tradusă în [Deutsch](https://www.petitionen.com/history-md), [English](https://www.petitions.net/history-md), [Español](https://www.peticiones.net/history-md), [Français](https://www.petitionenligne.com/history-md), [Italiano](https://www.petizioni.com/history-md), [русский](https://ru.petitions.net/history-md))
 - [adresarea grupului de inițiativă la Consiliu](egalitate-md.md)l pentru prevenirea și eliminarea discriminării (cu traduceri în curs, la care poți [contribui](https://github.com/sdudnic/istoria)): [en](egalitate-en.md), [fr](egalitate-fr.md), [ru](egalitate-ru.md)
-
-
-## Tu poți contribui la proiect!
-
-**[SCRIE-NE AICI][1]**, vom fi bucuroși de orice comentariu sau propunere!
-
-Avem mai multe chestii de făcut în comun: 
-- traduce (sau ameliorarea traducerii) - Engleză, Franceză, Italiană, Spaniolă, Rusă etc. – pentru a putea informa comunitatea și organizațiile internaționale despre problema noastră; 
-- îmbogăți conținutul petiției cu exemple din practica juridică internațională, cazuri similare din alte părți a lumii;
-- adăuga persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!;
-- semnala un caz de abuz legat de tematica petiției; 
-- împărtăși idei, opinii, sugestii.
-
 
 ## Noutăți
 
@@ -68,6 +55,18 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2021_08_19_QuestionParlamentToConsiliu.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
+
+## Tu poți contribui la proiect!
+
+**[SCRIE-NE AICI][1]**, vom fi bucuroși de orice comentariu sau propunere!
+
+Avem mai multe chestii de făcut în comun: 
+- traduce (sau ameliorarea traducerii) - Engleză, Franceză, Italiană, Spaniolă, Rusă etc. – pentru a putea informa comunitatea și organizațiile internaționale despre problema noastră; 
+- îmbogăți conținutul petiției cu exemple din practica juridică internațională, cazuri similare din alte părți a lumii;
+- adăuga persoane care se consideră discriminate de programul școlar moldovenesc: ei pot adera la petiție, cu cât suntem mai mulți cu atât petiția e mai importantă!;
+- semnala un caz de abuz legat de tematica petiției; 
+- împărtăși idei, opinii, sugestii.
+
 
 [1]: https://github.com/sdudnic/istoria/discussions
 [2]: ./egalitate-22-06-2022
