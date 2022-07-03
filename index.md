@@ -65,7 +65,7 @@ A [citi scrisoarea deschisă este posibil aici][2].
 
 ---
 
-### Răspunsul Ministerului către Consiliu către Consiliu
+### Răspunsul Ministerului (dl Popovici) către Consiliu
 `11.12.2019`, în care vorbește despre structurarea conținuturilor educaționale și 5% de istorie "locală", subiecte care nu are legătură directă cu denumirea obiectului școlar - subiectul petiției.
 
 <iframe src="./assets/2019_12_11_RaspunsDeLaMinisterConsiliului.pdf#toolbar=0" width="100%" height="300"></iframe>
