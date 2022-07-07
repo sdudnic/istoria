@@ -117,7 +117,7 @@ This issue may be a violation of the ethnic rights of the population of the Repu
 
 **in fact**, tolerance and friendship between peoples are not given due consideration, as the analyzed history textbook contains almost nothing about other nations. Everything is focused on the Romanian ethnicity, starting with the title and ending with the content. As for example the history textbook – “Istoria românilor și universala (History of Romanians and world history): Fourth grade textbook/Pavel Cerbușca; Ministry of Education of the Republic of Moldova - Ch.: Î.E.P. Știința, 2016”. After the lexical analysis of the text in the textbook, we have discovered with a certain amount of dismay that the word “Moldovan”/”Moldovans” is used 8 times, the word “Russian” 3 times (the Russian language, Russian armies and Russian writer), the words Ukraine, Ukrainian/Ukrainians, Jew, Bulgarian, Gypsy/Roma, Gagauz, German, Armenian are not used at all (!), while the word “Romanian” is used 92 times in various forms!
 
-<img src="https://github.com/sdudnic/moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>
+<img src="./assets/cerbusca.jpg" alt="History of Romanian Schoolbook stats" width="300"/>
 
 _Fig. 2_ An example of statistics of a textbook of the “History of Romanians”
 
