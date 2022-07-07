@@ -13,7 +13,8 @@ While in the Republic of Moldova there is an official language laid down in the 
 
 The population censuses from 1989, 2004, 2014 show that the majority of the population of the Republic of Moldova - 69-76% - self-identifies with Moldovan nationality/ethnicity. The ethnic structure of the population of the Republic of Moldova, according to the results of the national census, is presented in the following table, which contains the official figures of the 2004 and 2014 population census:
 
-![Table representing different nationalities/ethnicities in the Republic of Moldova](https://github.com/serge987/Moldova/blob/master/content/image.png?raw=true)  
+![Table representing different nationalities/ethnicities in the Republic of Moldova](https://github.com/serge987/Moldova/blob/master/content/image.png?raw=true)
+
 _Fig. 1_ – Table representing different nationalities/ethnicities in the Republic of Moldova (source: Moldova National Bureau of Statistics, statistica.md, Results of 1 census)
 
 We remind the fact that censuses record the personal statement of citizens regarding their ethnicity/nationality, so it is about self-identification - the only modern method of determining the ethnicity of an individual, taken in part. The sum of personal self-identification presents a democratic, independent, scientifically adapted method of identifying, measuring quantitatively and analyzing ethnic groups within a community.
@@ -30,7 +31,7 @@ In this document, we consider the notions of **ethnicity** and **nationality** a
 
 Taking into consideration the following national and international legal texts:
 
- * The Moldovan :page_facing_up: **law on ensuring equality** (no. 121 of 25.05.2012):
+ * The Moldovan **law on ensuring equality** (no. 121 of 25.05.2012):
 
    * _discrimination_ - any difference, exclusion, restriction or preference in the rights and freedoms of the person or a group of persons, as well as the support of discriminatory behavior based on real criteria, stipulated by this law or on presumed criteria;
    * _direct discrimination_ - treating a person on the basis of any of the prohibitive criteria in a less favorable manner than treating another person in a comparable situation;
@@ -39,15 +40,15 @@ Taking into consideration the following national and international legal texts:
    * _racial segregation_ - any action or inaction that leads directly or indirectly to the separation or differentiation of persons based on criteria of race, color, national or ethnic origin;
    * _harassment_ - any unwanted behavior that leads to the creation of an intimidating, hostile, degrading, humiliating or offensive environment, with the purpose or effect of harming a person's dignity based on the criteria stipulated by this law;
 
- * :page_facing_up: **The International Convention on the Elimination of All Forms of Racial Discrimination** defines _racial discrimination_ as 
+ * **The International Convention on the Elimination of All Forms of Racial Discrimination** defines _racial discrimination_ as 
 > "any distinction, exclusion, restriction or preference based on race, color, ancestry or national or ethnic origin, which has as its object or effect the destruction or compromise of recognition, use or the exercise, on equal terms, of human rights and fundamental freedoms in the political, economic, social and cultural spheres or in any other field of public life."
 
- * The **Romanian legislation** uses, in the :page_facing_up: Government Ordinance no. 137/2000, on the prevention and sanctioning of all forms of discrimination, in Art.2, a similar definition, _discrimination_ being 
+ * The **Romanian legislation** uses, in the Government Ordinance no. 137/2000, on the prevention and sanctioning of all forms of discrimination, in Art.2, a similar definition, _discrimination_ being 
 > "any difference, exclusion, restriction or preference, based on race, nationality, ethnicity, [...] beliefs, ... or any other criterion which has as its object or effect the restriction or removal of the recognition, use or exercise, on equal terms, of human rights and fundamental freedoms or of rights recognized by law, in the political, economic, social and cultural field or in any other field of public life";
 
 In particular, we can conclude from this that _racial discrimination_ is defined as "preference based on national or ethnic origin, which has the effect of restricting or removing the recognition, on an equal footing, of fundamental rights and freedoms".
 
- * In **Romania**, :page_facing_up: order no. 6134/2016 on the prohibition of school segregation in pre-university education units, Art.3, defines _segregation_ as 
+ * In **Romania**, order no. 6134/2016 on the prohibition of school segregation in pre-university education units, Art.3, defines _segregation_ as 
 > "a serious form of discrimination and has as a consequence the unequal access of children to a quality education, violation of the exercise of equal rights to education as well as human dignity"
 
  * **The People's Law Dictionary** by Gerald and Kathleen Hill, defines _discrimination_ as 
@@ -60,13 +61,13 @@ In conclusion, we will understand in this document the **ethnic discrimination**
 
 The definition and prohibition of _ethnic segregation_ is present in the legislation of many European countries. Bellow we summarize the definitions of (ethnic, educational) _segregation_ in different countries, you can also find [the original study, as of april 2019, here](https://ec.europa.eu/info/sites/info/files/racial_discrimination_in_education_and_eu_equality_law_web.pdf):
 
- - Bulgaria: :page_facing_up: Article 5 and Additional Provision §1.6 Law on Protection Against Discrimination Racial segregation […] shall be deemed discrimination, [and] shall mean issuing an act, performing an action or omission to act, which leads to compulsory separation, differentiation or dissociation of persons based on their [...] ethnicity [...].
+ - Bulgaria: Article 5 and Additional Provision §1.6 Law on Protection Against Discrimination Racial segregation […] shall be deemed discrimination, [and] shall mean issuing an act, performing an action or omission to act, which leads to compulsory separation, differentiation or dissociation of persons based on their [...] ethnicity [...].
 
- - Croatia: :page_facing_up: Article 5, (1) and (2) Anti-Discrimination Act Segregation shall […] deem to be discrimination […] meaning [...] a forced and systematic separation of persons on any of the grounds referred to in Article 1 paragraph 1 of [the Anti-discrimination Act]
+ - Croatia: Article 5, (1) and (2) Anti-Discrimination Act Segregation shall […] deem to be discrimination […] meaning [...] a forced and systematic separation of persons on any of the grounds referred to in Article 1 paragraph 1 of [the Anti-discrimination Act]
 
- - Hungary: :page_facing_up: Article 10 (2) and 27 (3) Antidiscrimination law. Segregation is a behaviour aimed at separating individuals or a group of persons from other individuals or another group of persons in a comparable situation, based on a characteristic defined in [the anti-discrimination law].
+ - Hungary: Article 10 (2) and 27 (3) Antidiscrimination law. Segregation is a behaviour aimed at separating individuals or a group of persons from other individuals or another group of persons in a comparable situation, based on a characteristic defined in [the anti-discrimination law].
  
- - UK: :page_facing_up: Equality Act 2010 Section 13 (1) and (5) A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others. If the protected characteristic is race, less favourable treatment includes segregating B from others. NI Race Relations Order 1997, Art. 3(2) Race Relations Order Segregating a person from other persons on racial grounds is treating him less favourably than they are treated.
+ - UK: Equality Act 2010 Section 13 (1) and (5) A person (A) discriminates against another (B) if, because of a protected characteristic, A treats B less favourably than A treats or would treat others. If the protected characteristic is race, less favourable treatment includes segregating B from others. NI Race Relations Order 1997, Art. 3(2) Race Relations Order Segregating a person from other persons on racial grounds is treating him less favourably than they are treated.
 
 ## 2.3 Discriminated subjects
 Here are the subjects which, in the opinion of the working group, are discriminated by this name of the school subject:
@@ -95,7 +96,7 @@ The segregation of children in schools is described by the Council of Europe as 
 
 ### 3.1.1 UN
 
- * :page_facing_up: **International Convention on the Elimination of All Forms of Racial Discrimination**
+ * **International Convention on the Elimination of All Forms of Racial Discrimination**
 In addition to the definition of "racial discrimination" in the preceding paragraph, the Convention also mentions:
 > Art.4 States Parties [...] undertake [...] c) not to permit public authorities or public institutions, national or local, to promote or incite racial discrimination.
 
@@ -103,7 +104,7 @@ In addition to the definition of "racial discrimination" in the preceding paragr
 
 > Art.7 commits the signatory states "to take immediate and effective measures in the fields of education, education, culture and information, to combat prejudices leading to racial discrimination and to promote understanding, tolerance and friendship between nations and racial or ethnic groups".
 
- * :page_facing_up: **UNESCO Convention against Discrimination in Education 1960**
+ * **UNESCO Convention against Discrimination in Education 1960**
 > Art.3 In order to eliminate or prevent any discrimination [...], the States Parties undertake:
  a) to abrogate any statutory provisions and any administrative instructions and to discontinue any administrative practices which involve discrimination in education;
 
@@ -111,12 +112,12 @@ This article, used by the ECHR in the case of the Transnistrian teachers’ tria
 
 This issue may be a violation of the ethnic rights of the population of the Republic of Moldova, and possibly a violation of children’s rights to a fair education.
 
- * :page_facing_up: **Universal Declaration of Human Rights**
+ * **Universal Declaration of Human Rights**
 > Art.26 (2): Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations and racial groups [...] (3) Parents have a prior right to choose the kind of education that shall be given to their children.
 
 **in fact**, tolerance and friendship between peoples are not given due consideration, as the analyzed history textbook contains almost nothing about other nations. Everything is focused on the Romanian ethnicity, starting with the title and ending with the content. As for example the history textbook – “Istoria românilor și universala (History of Romanians and world history): Fourth grade textbook/Pavel Cerbușca; Ministry of Education of the Republic of Moldova - Ch.: Î.E.P. Știința, 2016”. After the lexical analysis of the text in the textbook, we have discovered with a certain amount of dismay that the word “Moldovan”/”Moldovans” is used 8 times, the word “Russian” 3 times (the Russian language, Russian armies and Russian writer), the words Ukraine, Ukrainian/Ukrainians, Jew, Bulgarian, Gypsy/Roma, Gagauz, German, Armenian are not used at all (!), while the word “Romanian” is used 92 times in various forms!
 
-<img src="https://github.com/serge987/Moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300" />  
+<img src="https://github.com/serge987/Moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>
 
 _Fig. 2_ An example of statistics of a textbook of the “History of Romanians”
 
@@ -124,7 +125,7 @@ Similar statistics can be found in the high school curriculum on history, 2019, 
 
 No consideration is given to parents’ priority: all children learn exclusively about Romanians regardless of the opinions of their parents. Respectively, school promotes ethnic indoctrination of children regardless of the position of their parents exposed at home, thus confusing children and imposing them to choose between school and parents, if those opinions differ.
 
- * :page_facing_up: **Declaration on the Rights of Indigenous Peoples of the UN General Assembly**
+ * **Declaration on the Rights of Indigenous Peoples of the UN General Assembly**
 > Art.14 (2) Indigenous individuals, particularly children, have the right to all levels and forms of education of the State without discrimination. (3) States shall, in conjunction with indigenous peoples, take effective measures, in order for indigenous individuals, particularly children, including those living outside their communities, to have access, when possible, to an education in their own culture and provided in their own language.
 
 **in fact**, notwithstanding the results of national censuses, the Ministry imposes nationalist clichés on the indigenous population statistically declared explicitly as “Moldovans”, imposing the ethnonim “Romanian” in the name of the subject of history. We shall note that the same clichés are applied to national subjects of language (according to Art.13 of the Constitution declared as “Moldovan”), and literature, but these are not currently the subject of this petition.
@@ -137,7 +138,7 @@ No consideration is given to parents’ priority: all children learn exclusively
 
 **in fact**, popular expressions and Moldovan traditions, the traditional use of the name of the Moldovan language, ethnicity, people and nation, as accustomed to and written evidence of which we have at least since the sixteenth century, are systematically replaced by the terms “Romanian”, because this is what the ministerial elite consider to be, in their view, more correct. The name of the Moldovan language, used for at least 5 centuries, is not used anymore contrary to censuses and the majority public opinion. The name of the Moldovan ethnic group is replaced by the Romanian ethnic group. It is this concept that underlies the name of the national subject of history, considering it as part of the struggle against the Soviet past that has become unpopular. The name of the Moldovan ethnic group and the Moldovan language became sacrifices of the struggle of the scientific elites against the Soviet past. These clichés without alternative are presented to pupils as the only truth. Thus, not only ethnic minorities in the Republic of Moldova are practically excluded from history textbooks, but also the Moldovan majority is subject to methodical indoctrination during the last decades of independence.
 
- * :page_facing_up: **UN Convention on the Rights of the Child** (November 20, 1989)
+ * **UN Convention on the Rights of the Child** (November 20, 1989)
 > Art.2 (1) States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's [...] political or other opinion, national, ethnic or social origin, [...] of their birth or of another situation.
 (2) States Parties shall take all appropriate measures to ensure that the child is protected against all forms of discrimination or punishment on the basis of the legal status, activities, expressed opinions, or beliefs of the child's parents, legal guardians, or family members.
 Art. 8 (1) States Parties undertake to respect the right of the child to preserve his or her identity [...]
@@ -158,7 +159,7 @@ For pupils between the ages of 10 and 14, the history is compulsory in all schoo
 
 Below is a non-exhaustive list of Council of Europe conventions and legal texts that are subject to possible violation by the Ministry of Education:
 
- - :page_facing_up: **European Convention on Human Rights**
+ - **European Convention on Human Rights**
 
 > Art.8 The right to respect for private and family life
 (1) Everyone has the right to respect for his private and family life [...].
@@ -184,7 +185,7 @@ No one shall be discriminated against by any public authority on any ground such
 
 **in fact**, the state ignores the beliefs of a great part of population who declare themselves Moldovans, it ignores the philosophical conceptions of many parents who signed this petition, who do not agree that their children should be educated as Romanians. There is an obvious difference based on national origin. Ethnic minorities are completely absent in the history books analyzed by us, books accredited by the Ministry of Education of Moldova.
 
- - :page_facing_up: **Framework Convention for the Protection of National Minorities**
+ - **Framework Convention for the Protection of National Minorities**
 
 > Art.5 (2) [...] the Parties shall refrain from policies or practices
 > aimed at assimilation of persons belonging to national minorities
@@ -206,7 +207,7 @@ Art.12 The Parties shall [...] take measures in the fields of education and rese
 
 ### 3.1.3 Recommendations of the Parliamentary Assembly of the Council of Europe
 
- - :page_facing_up: **Recommendation 15 (2001) on history teaching in the 21st-century in Europe**
+ - **Recommendation 15 (2001) on history teaching in the 21st-century in Europe**
 
 “Appendix 1. [...]
 make it possible to develop in pupils the intellectual ability to analyze and interpret information critically and responsibly, through dialogue, through the search for historical evidence and through open debate based on multiperspectivity, especially on controversial and sensitive issues;
@@ -224,13 +225,13 @@ Teaching history must not be an instrument of ideological manipulation, of propa
  - through name of the history textbook they promote the idea that “national” – “national history” - is similar to “Romanian” – “history of Romanians”. Thus, the opinions of the majority of Moldovans, expressed in the national censuses, regarding their national identity – “Moldovan”, are explicitly ignored.
  - This contrast between the academic nationalist opinion and the factual reality creates favorable ground for misunderstanding, hatred, intolerance towards people who do not share the “Romanian” theory of identity of the majority population in the Republic of Moldova, mutual accusations, marches and ethnocentric manifestations, radicalization of opinions expressed in public and on social networks.
 
- - :page_facing_up: **Recommendation 1111 (1989) on the European dimension of education**
+ - **Recommendation 1111 (1989) on the European dimension of education**
 
 states that “for the purpose of the European dimension of education, Europe extends to the whole continent” (par.5) and that education must contribute to “knowing 'others'” [peoples, nations, n.r.] (par. 2)
 
 **in fact**, “knowing others” is practically reduced to “Romanians”. The respect for the culture of others is virtual, because “others” are not even mentioned in the textbook. The notion of the citizen of the Republic of Moldova is largely replaced by the notion of Romanian, that resulting from the cover of the textbook, from the title of the textbook and the school subject imposed by the Ministry of Education.
 
- - :page_facing_up: Recommendation 98/5 of the Committee of Ministers of the Council of
+ - Recommendation 98/5 of the Committee of Ministers of the Council of
    Europe on education for the preservation of historical heritage
 
 states that “one of the aims of education is to train young people to have respect for diverse cultures, citizenship and democracy”, and that “cultural heritage is comprised of cultural contributions and interactions from many sources and periods”.
@@ -238,15 +239,15 @@ states that “one of the aims of education is to train young people to have res
 **in fact**, if it is about “common heritage”, we shall not exclude from the textbook, and especially from the title, the heritage left by other ethnic groups. It is regretfully to find the contrary when looking into the textbooks edited under the auspices of the national ministry of education.
 Multilateralism is not encouraged, but preference is given to a single point of view on history - all information - starting with the title of the textbook - focuses on Romanian national ethnocentrism, and all origins are limited to the culture and contribution of Romanians, nothing or almost nothing being mentioned about other origins of cultural heritage of the Republic of Moldova.
 
- - :page_facing_up: **Recommendation 1353 (1998) of the Parliamentary Assembly of the Council of Europe on the access of minorities to higher education**
+ - **Recommendation 1353 (1998) of the Parliamentary Assembly of the Council of Europe on the access of minorities to higher education**
 
 states that “minorities should be able to express their identity and develop their education, culture, language and traditions and that states should take all necessary measures to this end. Moreover, this is the only way by which Europe will be able to preserve its rich cultural diversity. "
 
- - :page_facing_up: **Parliamentary Assembly of the Council of Europe Recommendation 1880 (2009)** on history teaching in conflict and post-conflict areas
+ - **Parliamentary Assembly of the Council of Europe Recommendation 1880 (2009)** on history teaching in conflict and post-conflict areas
 
 states that "history can contribute to a better understanding, tolerance and trust between individuals and between the peoples of Europe, or it can become a force for division, violence and intolerance. Therefore, teaching history can be both a tool of peace and reconciliation in conflict and post-conflict areas, and of tolerance and understanding in addressing phenomena such as migration, immigration and demographic change."
 
- - :page_facing_up: **EC Recommendation 1283 (1996) on history and learning of history in Europe**
+ - **EC Recommendation 1283 (1996) on history and learning of history in Europe**
 
 states that learning history should not be "memorizing events by heart", but should "enable students to acquire critical thinking skills to analyze and interpret information effectively and responsibly, to recognize the complexity of problems and to appreciate cultural diversity"; it also states that "stereotypes should be identified, as well as any other distortions on a national basis"; it also argues that "the object of teaching history must be very open [...] to include all aspects [...] Local and national (but not nationalist) history should be taught in the same way, as should the history of minorities. Controversial, sensitive and tragic events should be balanced by positive mutual influences; "
 
@@ -258,21 +259,21 @@ _Fig.4_ Page from the history textbook adding "Romanian" to the official name of
 
 ### 3.1.4 EU
 
- - :page_facing_up: **The Memorandum on Lifelong Learning**
+ - **The Memorandum on Lifelong Learning**
 
 drawn up by the European Union in 2000, states that (point 2) “individuals [...] must learn to live positively with cultural, ethnic and linguistic diversity".
 
 **in fact**, this principle is not reflected in the name of the school subject, neither in the content of history textbooks, nor in the history curriculum adopted by the Ministry of Education. Ethnic “diversity” in textbooks and in the curriculum is limited to “Romanian”, and the textbook has almost no information about the language or the culture of minorities, and we hardly find any single world about these minorities, as seen in the examples above.
 
- - :page_facing_up: **Treaty of Amsterdam (1997)**
+ - **Treaty of Amsterdam (1997)**
 
 allows all Member States of the European Community to take all appropriate action to combat discrimination based on ethnic origin or belief;
 
- - :page_facing_up: **The European Union Charter of Fundamental Rights**
+ - **The European Union Charter of Fundamental Rights**
 
 > Art. 14 (Right to education according to one’s own convictions), 21 (Non-discrimination), 22 (Diversity) and 24 (Child’s right to opinion).
 
- - :page_facing_up: *Treaty on the Functioning of the European Union (MD)**
+ - *Treaty on the Functioning of the European Union (MD)**
 
 > Art.10 In defining and implementing its policies and actions, the Union shall seek to combat any discrimination based on sex, racial or ethnic origin [...].
 > Art.19 The Council [...] may take the necessary measures to combat any discrimination based on sex, race or ethnic origin [...].
@@ -282,7 +283,7 @@ allows all Member States of the European Community to take all appropriate actio
 > Art.24 (1) The children [...] can freely express their opinion. This is taken into account in the issues that concern them, depending on their age and degree of maturity.
 (2) In all actions concerning children, whether carried out by public authorities or private institutions, the best interests of the child shall be a primary consideration.
 
- - :page_facing_up: **European Parliament resolution of 7 February 2018**
+ - **European Parliament resolution of 7 February 2018**
 
 on protection and non-discrimination with regard to minorities in the EU Member States (2017/2937(RSP)) states that "discrimination based on ethnic origin is mentioned as the most common form of discrimination"
 
@@ -293,7 +294,7 @@ on protection and non-discrimination with regard to minorities in the EU Member 
 
 ## 3.2 National (Republic of Moldova's) legislation
 
- - :page_facing_up: **The Constitution of the Republic of Moldova**
+ - **The Constitution of the Republic of Moldova**
 
 > Art.5 (2) “No ideology may be instituted as official ideology of the State”
 
@@ -311,7 +312,7 @@ on protection and non-discrimination with regard to minorities in the EU Member 
 
 **in fact**, freedom of conscience is limited by the ideology of Romanianism, officially taught in the school textbooks. The lack of alternative state ideology does not favour the development of freedom of conscience. Families whose point of view is different from the official one are disadvantaged compared to those who conform to it, because children from these families are confused and need greater efforts to learn the school materials.
 
- - :page_facing_up: **Law no. 121 of 25.05.2012 on equality**
+ - **Law no. 121 of 25.05.2012 on equality**
 
 has already been mentioned above with the definition of discrimination. Other points in this law mention:  
  Serious forms of discrimination are:  
@@ -327,7 +328,7 @@ has already been mentioned above with the definition of discrimination. Other po
 **in fact** the Ministry of Education, highlights a single ethnic/national group, on the cover of textbooks, which appear in the classrooms of national schools, in public libraries, etc.
 There are also many media outlets, for which the segregation of people of one ethnicity in various republican and extra-republican political projects has become the norm. One of the main causes of these marginal behaviors is the national education of young citizens, who are inspired by history to build a future, whose uniqueness is indisputable and whose alternative is not analyzed by the history education system.
 
- - :page_facing_up: **Law no. 338 of 15.12.1994 on child rights**
+ - **Law no. 338 of 15.12.1994 on child rights**
 
 > Art.3 All children are equal in rights regardless of nationality, ethnic origin, sex, language, [...] beliefs...
 > Art.6 The state protects the inviolability of the child's person, protecting him from any form of [...] discrimination...
@@ -335,7 +336,7 @@ There are also many media outlets, for which the segregation of people of one et
 > Art. 9. The state ensures to all children equal possibilities and conditions for the acquisition of cultural values​​...
 > Art. 31 (2) If the international agreement to which the Republic of Moldova is a party establishes other rules than those contained in this law, the rules of the international agreement shall apply.
 
- - :page_facing_up: **Law no. 382 of 19.07.2001 on the Rights of Persons Belonging to National Minorities and the Legal Status of their Organizations**
+ - **Law no. 382 of 19.07.2001 on the Rights of Persons Belonging to National Minorities and the Legal Status of their Organizations**
 
 Demonstrating its devotion to the Universal Declaration of Human Rights [...], including the Framework Convention for the Protection of National Minorities; [...] taking into account the ethnic diversity [...] of the people of Moldova Moldova [...]; proceeding from the international legal principles according to which the protection of national minorities, and their rights and liberties are an inalienable part of the protection of human rights; the Parliament adopts this organic law.
 > Art.1 For the purposes of this law, persons belonging to national minorities shall include persons who [...] differ from the majority of the population (Moldovans) and consider themselves to be of a different ethnic origin.
@@ -357,7 +358,7 @@ Demonstrating its devotion to the Universal Declaration of Human Rights [...], i
 ### 3.4.1 Romania
 In the neighbouring Romania, after the country acceded to the EU (2007), the school subject of “History of Romanians” was “Europeanized”, that has lead to considerable dissatisfaction on the part of academic world
 
-:page_facing_up: The third report of ECRI (European Commission against Racism and Intolerance) on Romania, adopted on 24 June 2005, states (par. 81):
+The third report of ECRI (European Commission against Racism and Intolerance) on Romania, adopted on 24 June 2005, states (par. 81):
 
 > “ECRI notes that despite the above-mentioned measures, which it welcomes, much remains to be done in the area of education. NGOs still deplore the fact that Romanian school textbooks contain stereotypes and prejudice about minority groups. Some textbooks, for example, continue to describe the arrival in Romania of “hordes of barbarian nomads who came from the East to spread terror”, and the Hungarians are sometimes depicted as foreigners who occupied the Transylvania region. ECRI also notes that the history course taught to Romanian pupils is entitled “History of the Romanians” rather than “History of Romania”. It would also appear that although most derogatory references to Roma have been deleted from school textbooks, too little attention continues to be paid to their contribution to Romanian society.”
 
@@ -365,9 +366,9 @@ Here is how the Ministry of Education and Research responds to ECRI’s remarks:
 
 > Regarding the naming of the subject as “The History of Romanians” and not “The History of Romania”, we point out that this name was adopted immediately after 1989 and took into account certain particularities of national history (the name of the state as Romania appeared in the second half of the 19th Century, therefore “The History of Romania” would cover only one and a half centuries). However, taking on board the recommendations of the Council of Europe, Romania has introduced, in the 2004-2005 school syllabus, courses of integrated history designated as “History”. Once the new curricula for the 8th and 12th forms are in place, the syntagma “The History of Romanians” will disappear over the next few years. The new syllabus will include new themes regarding the history of minorities in Romania and that of the Romanian minorities living in the neighbouring countries.”
 
- - :page_facing_up: Law 1/2011 on National Education, Art. 3 stipulates the principles governing pre-university education in Romania, namely: the principle of equity, guaranteeing cultural identity, recognition and guarantee of the rights of persons belonging to national minorities, the right to preserve, develop and express their ethnic, cultural, linguistic and religious identity, the principle of ensuring equality of chances, the principle of freedom of thought and independence from ideologies, religious dogmas and political doctrines, the principle of social inclusion, the principle of organizing confessional education according to the specific requirements of each recognized cult;
+ - Law 1/2011 on National Education, Art. 3 stipulates the principles governing pre-university education in Romania, namely: the principle of equity, guaranteeing cultural identity, recognition and guarantee of the rights of persons belonging to national minorities, the right to preserve, develop and express their ethnic, cultural, linguistic and religious identity, the principle of ensuring equality of chances, the principle of freedom of thought and independence from ideologies, religious dogmas and political doctrines, the principle of social inclusion, the principle of organizing confessional education according to the specific requirements of each recognized cult;
 
- * The Romanian :page_facing_up: Government Ordinance no. 137/2000, on the prevention and sanctioning of all forms of discrimination, in Art.2, _discrimination_ is defined as being 
+ * The Romanian Government Ordinance no. 137/2000, on the prevention and sanctioning of all forms of discrimination, in Art.2, _discrimination_ is defined as being 
 > "any difference, exclusion, restriction or preference, based on race, nationality, ethnicity, [...] beliefs, ... or any other criterion which has as its object or effect the restriction or removal of the recognition, use or exercise, on equal terms, of human rights and fundamental freedoms or of rights recognized by law, in the political, economic, social and cultural field or in any other field of public life"
 
 In particular, we can conclude from this that "_racial discrimination_" can also be defined as "preference based on national or ethnic origin, which has the effect of restricting or removing the recognition, on an equal footing, of fundamental rights and freedoms".
@@ -375,10 +376,10 @@ In particular, we can conclude from this that "_racial discrimination_" can also
 **in fact** it is attested that the preference of the Romanian ethnic group by the Ministry of Education of Moldova in naming of the school object of history has the effect of compromising the exercise on equal terms of rights of children of the Republic of Moldova to discover the past of its ethnicity/nationality in the common space of all citizens of the Republic of Moldova. As in the name or content of the national history textbook, the participation of other ethnic groups is significantly restricted, practically removed. This "preference" as well as "restriction" is attested both in the name of the textbook/school object, as well as in the content of the textbooks and the school curriculum, as we will see below.
 
 ### 3.4.2 USA
- - :page_facing_up: **Washington state law** imposes the following curriculum restrictions on schools: "All general schools will provide instruction in [...], geography, history of the United States, English grammar, [...]", so if a school were to impose "American history" instead that of the "United States", that could be a ground for litigation.
+ - **Washington state law** imposes the following curriculum restrictions on schools: "All general schools will provide instruction in [...], geography, history of the United States, English grammar, [...]", so if a school were to impose "American history" instead that of the "United States", that could be a ground for litigation.
 
 ### 3.4.3 France
- - The :page_facing_up: Anti-Discrimination Act and the Labor Code state that "No person shall be removed [...] on the grounds of origin, [...] affiliation or non-affiliation, true or presumed, to an ethnicity, nation or race".
+ - The Anti-Discrimination Act and the Labor Code state that "No person shall be removed [...] on the grounds of origin, [...] affiliation or non-affiliation, true or presumed, to an ethnicity, nation or race".
 
 **in fact** it can admittedly be observed, in Moldovan practice, the absence/removal of all ethnic groups in the textbook of national history, the exception being the Romanian one, expressed by the mere fact that we have almost any mention on them in the content of these textbooks, as we will see below.
 

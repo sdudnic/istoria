@@ -109,8 +109,9 @@ Acest subiect poate constitui o încălcare a drepturilor etnice ale populației
 *pe teren* - toleranța și prietenia între popoare nu este la ordinea de zi, deoarece despre alte popoare în manualul de istorie analizat practic nici nu se pomenește. Totul este axat pe etnia româna, începând de la titlul și terminând cu conținutul. 
 Am luat spre exemplu la conținutul unui manual de istorie - "Istoria românilor și universală: Man. pentru cl. a IV-a / Pavel Cerbușca; Min. Educației al Rep. Moldova - Ch.: Î.E.P. Știința, 2016". După analiza lexicală a textului din manual, se poate constata cu stupoare, că *cuvântul "moldovean"/"moldoveni" în manual se întâlnește de 8 ori, cel "rus" are trei aparențe (limba "rusă", "oștile ruse" și "scriitor rus"), cuvintele "ucrain/ean/eni", "evreu", "bulgar", "țigan/rom", "găgăuz", "neamț", "armean" nu se întâlnesc niciodată(!), pe când cuvântul "român" se întâlnește sub diverse forme de 92 ori* !
 
-<img src="https://github.com/serge987/Moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>
-Fig.2 Un exemplu de statistică dintr-un manual de "istoria românilor"
+<img src="https://github.com/serge987/Moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>  
+
+_Fig.2_ Un exemplu de statistică dintr-un manual de "istoria românilor"
 
 Statistică asemănătoare o regăsim și în [curricula liceală de istorie, 2019](https://mecc.gov.md/sites/default/files/iru_liceu.pdf), unde despre minorități nu se vorbește  deloc (eg. "ucrainean", "evreu", "bulgar" nu se întâlnește niciodată), cuvântul "moldovean/eni" se întâlnește doar o singură dată, "rus" doar cu referire la Imperiu, pe când "românesc/român" de sute de ori.  
 
