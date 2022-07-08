@@ -8,6 +8,17 @@ Textele următoare de bază sunt disponibile:
 
 ## Noutăți
 
+
+### Feedback de la Comisia Europeană împotriva Rasismului și Intoleranței
+`08.07.2022` unde ne asigură că problema denumirii obiectului istoriei va fi inclusă în al 6-lea raport pe R. Moldova
+[MD] [RU]
+Comisia Europeană împotriva Rasismului și Intoleranței (ECRI) a Consiliului Europei a fost sesizată cu privire la problema Istoriei României încă din anul 2020, astăzi am primit din nou confirmarea că informația privind denumirea obiectului va fi inclusă în cel de-al 6-lea raport privind Republica Moldova, după monitorizarea de către această Comisie a țării noastre, dar, din păcate, doar către anul 2024...
+***
+Европейская комиссия против расизма и нетерпимости (ECRI) Совета Европы знают о проблеме Истории Румын еще с 2020, мы получили сегодня еще раз подтверждение что информация о названии предмета будет включена в 6-ой отчет по Республике Молдова, после мониторинга этой коммиссии нашей страны, но к сожалению лишь к 2024...
+
+---
+
+
 ### Grupul cere Parlamentului modificarea legii cu privire la activitatea Consiliului
 `02.07.2022` Grupul cere Parlamentului modificarea legii 298 cu privire la activitatea Consiliului pentru prevenirea și eliminarea discriminării și asigurarea egalității
 
