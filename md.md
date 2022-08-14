@@ -233,7 +233,7 @@ Multilateralitatea nu este încurajată, ci se dă preferință unui singur punc
 Despre *întemeierea* Țărilor Moldovei și a Valahiei se spune (același manual de mai sus, pag 26) că ar fi țări "române", pe când în acei ani nu se cunosc încă surse istorice ce ar atesta aceste afirmații, sau dacă așa surse și există, ele nu se aduc în manual elevilor. Elevul este impus sa creadă "pe cuvânt" autorii manualelor. În așa fel se impune un stereotip de gândire la copii, capacitatea de analiză și de depistare a propagandei a cărora încă se formează.
 Cum sa luptăm cu stereotipurile și falsul, când sărbătoarea oficială națională cu denumirea "Limba Noastră" (vezi hot. 433 a Sovietului Suprem al RSSM din 26-12-1990), sărbătorită pe 31 august, este descrisă (în pagina 47 a aceluiași manual) că ar fi având denumirea de "Limba Noastră cea Română"?!
 
-<img src=".assets/limba.jpg" alt="Manualul de istoria românilor" width="500"/>  
+<img src="./assets/limba.jpg" alt="Manualul de istoria românilor" width="500"/>  
 Fig.4 Pagină din manualul de istorie adăugând "cea Română" la denumirea oficială a sărbătorii naționale de 31 august
 
 
