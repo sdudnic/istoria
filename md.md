@@ -18,7 +18,7 @@ Recensămintele populației din anii 1989, 2004, 2014 arată ca majoritatea popu
 
 ![Tabelul reprezentând diferite naționalități/etnii din Republica Moldova](https://github.com/serge987/Moldova/blob/master/content/image.png?raw=true)
 
-_Fig. 1 - Tabelul reprezentând diferite naționalități/etnii din Republica Moldova (sursa: Biroul Național de Statistică al Moldovei, statistica.md, Rezultatele recensământului populației din 2014)_
+_Fig.1 - Tabelul reprezentând diferite naționalități/etnii din Republica Moldova (sursa: Biroul Național de Statistică al Moldovei, statistica.md, Rezultatele recensământului populației din 2014)_
 
 Amintim că recensămintele înregistrează declarația personală a cetățenilor în ce privește apartenența lor etnică/naționalitatea, deci este vorba de autoidentificare - unica metodă modernă de determinare a apartenenței etnice a unui individ, luat în parte. Suma autoidentificarilor personale prezintă o metodă democratică, independentă, științific adaptată, de a identifica, a măsura cantitativ și de a analiza grupurile etnice din interiorul unei comunități. 
 
@@ -109,7 +109,7 @@ Acest subiect poate constitui o încălcare a drepturilor etnice ale populației
 *pe teren* - toleranța și prietenia între popoare nu este la ordinea de zi, deoarece despre alte popoare în manualul de istorie analizat practic nici nu se pomenește. Totul este axat pe etnia româna, începând de la titlul și terminând cu conținutul. 
 Am luat spre exemplu la conținutul unui manual de istorie - "Istoria românilor și universală: Man. pentru cl. a IV-a / Pavel Cerbușca; Min. Educației al Rep. Moldova - Ch.: Î.E.P. Știința, 2016". După analiza lexicală a textului din manual, se poate constata cu stupoare, că *cuvântul "moldovean"/"moldoveni" în manual se întâlnește de 8 ori, cel "rus" are trei aparențe (limba "rusă", "oștile ruse" și "scriitor rus"), cuvintele "ucrain/ean/eni", "evreu", "bulgar", "țigan/rom", "găgăuz", "neamț", "armean" nu se întâlnesc niciodată(!), pe când cuvântul "român" se întâlnește sub diverse forme de 92 ori* !
 
-<img src="https://github.com/sdudnic/Moldova/blob/master/content/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>  
+<img src="./assets/cerbusca.jpg" alt="Manualul de istoria românilor" width="300"/>  
 
 _Fig.2_ Un exemplu de statistică dintr-un manual de "istoria românilor"
 
