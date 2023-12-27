@@ -80,12 +80,29 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2021_09_03_AnswerConsiliuToParl_03_1779.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
+#### Petitia schimba numarul in 150/20
+`15.07.2020`, raspunsul Consiliului la relansarea petitiei 
 
+<iframe src="./assets/2020_07_15_AnswerConsiliuToRelaunch.pdf#toolbar=0" width="100%" height="300"></iframe>
+
+---
 ### Răspunsul Ministerului (dl Popovici) către Consiliu
 `11.12.2019`, în care vorbește despre structurarea conținuturilor educaționale și 5% de istorie "locală", subiecte care nu are legătură directă cu denumirea obiectului școlar - subiectul petiției.
 
 <iframe src="./assets/2019_12_11_RaspunsDeLaMinisterConsiliului.pdf#toolbar=0" width="100%" height="300"></iframe>
 
+---
+
+### Amanarea petitiei catre grupul de initiativa pentru a aduce mai multe materiale
+`28.10.2019` Consiliul pentru prevenirea și eliminarea discriminării și asigurarea egalității ia luat act de solicitarea grupului și vă informă că examinarea sesizării înregistrată la data de 09.10.2019 sub nr. 1526 se suspendă. 
+--- 
+
+### Varianta initiala a petitiei catre Consiliu este intregistrata.   
+`15.10.2019`, Consiliul pentru prevenirea și eliminarea discriminării și asigurarea egalității vă informează că petiția dvs a fost înregistrată sub nr. 1526 la 09.10.2019. Despre rezultatul examinării veți fi informat suplimentar. Roaga să se confirme recepționarea.
+---
+
+### Varianta initiala a petitiei catre Consiliu
+`09.10.2019`, se trimite prima scrisoare electronica la Consiliu, pentru a pune problema denumirii obiectului "Istoria Românilor" ca fiind discriminatorie, petitia se accepta de catre Consiliu, si claseaza sub numarul 1526. Intrebarea se rezuma la, citat, "dacă acest subiect [denumirea obiectului de istorie nationala n.e.] poate constitui o încălcare a drepturilor etnice ale populației Republicii Moldova, și posibil și o încălcare a drepturilor copiilor la o educație echitabilă."
 ---
 
 ## Tu poți contribui la proiect!
