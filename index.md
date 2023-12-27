@@ -55,19 +55,21 @@ A [citi scrisoarea deschisă este posibil aici][2].
 
 ### Răspunsul Avocatului Poporului pentru Drepturile Copilului din Moldova 
 `12.10.2021`, în care refuza de a analiza petiția
+
 <iframe src="./assets/2021_10_12_AnswerOmbudsman.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
 
 ### Răspunsul Ministerului Educației la interogarea președinției  
 `11.10.2021`, în care ne explică spațiile teoretice ale curiculei (spații care nu au nicio legătură cu denumirea obiectului și deci nici cu petiția) și ne trimite cultural să ne căutăm de treabă
+
 <iframe src="./assets/2021_10_11_AnswerMinister.pdf#toolbar=0" width="100%" height="300"></iframe>
+---
 
 #### Răspunsul Grupului de inițiativă către președinție și Minister (rămas fără niciun retur din partea adresaților)
 `13.10.2021` prin care arătam ca nu exista nicio legătură intre răspunsul lor și întrebarea noastră, se poate integral citi [aici](2021_10_13_raspunsLaMinisterPresedintie.md)
 
 ---
-
 
 ### Întrebarea CDO (Parlament) către Consiliu
 `19.08.2021`, în care întreabă de ce nu iau decizia
@@ -92,17 +94,17 @@ A [citi scrisoarea deschisă este posibil aici][2].
 <iframe src="./assets/2019_12_11_RaspunsDeLaMinisterConsiliului.pdf#toolbar=0" width="100%" height="300"></iframe>
 
 ---
-
 ### Amanarea petitiei catre grupul de initiativa pentru a aduce mai multe materiale
 `28.10.2019` Consiliul pentru prevenirea și eliminarea discriminării și asigurarea egalității ia luat act de solicitarea grupului și vă informă că examinarea sesizării înregistrată la data de 09.10.2019 sub nr. 1526 se suspendă. 
---- 
 
+--- 
 ### Varianta initiala a petitiei catre Consiliu este intregistrata.   
 `15.10.2019`, Consiliul pentru prevenirea și eliminarea discriminării și asigurarea egalității vă informează că petiția dvs a fost înregistrată sub nr. 1526 la 09.10.2019. Despre rezultatul examinării veți fi informat suplimentar. Roaga să se confirme recepționarea.
----
 
+---
 ### Varianta initiala a petitiei catre Consiliu
 `09.10.2019`, se trimite prima scrisoare electronica la Consiliu, pentru a pune problema denumirii obiectului "Istoria Românilor" ca fiind discriminatorie, petitia se accepta de catre Consiliu, si claseaza sub numarul 1526. Intrebarea se rezuma la, citat, "dacă acest subiect [denumirea obiectului de istorie nationala n.e.] poate constitui o încălcare a drepturilor etnice ale populației Republicii Moldova, și posibil și o încălcare a drepturilor copiilor la o educație echitabilă."
+
 ---
 
 ## Tu poți contribui la proiect!
