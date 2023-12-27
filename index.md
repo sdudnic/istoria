@@ -8,6 +8,13 @@ Textele următoare de bază sunt disponibile:
 
 ## Noutăți
 
+### Întrebare către Comisia juridică: cum de făcut ca Consiliul să respecte legea:
+`28.12.2023` unde [intrebăm](/cij-question.md) Parlamentul (Comisia Juridică, de aceasta dată), cum de facut ca Consiliul să fie obligat să respecte propriul regulament.
+
+- Cine, la nivel național, ne poate da un șut în fund, la subiect, ca sa putem sa mergem la CEDO cu plângerea împotriva Guvernului?
+- Cum gestionați cazurile în care Consiliul nu răspunde la solicitările cetățenilor? Nu suntem unicii la care Consiliul nu a refuzat petiția, însă la care nici nu a dat un răspuns. Aceste întrebări, se vor adăuga la întrebările COE/ECRI, care pregătesc raportul al 6-lea pe Republica. Nu este niciun mecanism care ar împiedica o lipsa de răspuns din partea Consiliului, cei cinci membri nu au nicio constrângere punitiva în caz dacă nu răspund solicitărilor.
+- Am propus deja Comisiei drepturilor omului, însă ei s-au ascuns in păpușoi, sa facă modificări la regulamentul Consiliului, care sa oblige membri sa se pronunțe (negativ, sau pozitiv) la cauzele/petițiile aflate pe ordinea de zi. Dacă măcar un membru nu se pronunța, situația devine de PAT, din jocul de șah, unde sunt doi la doi pro-contra, și niciodată nu ajungem la trei voturi pro sau contra unei decizii. Aceasta practica vicioasa trebuie oprită. Membrii consiliului trebuie sa producă decizii, nu sa scuipe în pod, la fel ca și deputații, de altfel.
+
 
 ### Feedback de la Comisia Europeană împotriva Rasismului și Intoleranței
 `08.07.2022` unde ne asigură că problema denumirii obiectului istoriei va fi inclusă în al 6-lea raport pe R. Moldova
