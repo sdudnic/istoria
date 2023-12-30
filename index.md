@@ -8,6 +8,9 @@ Textele următoare de bază sunt disponibile:
 
 ## Noutăți
 
+### Precizari pentru Comisia Drepturilor Omului, la raspunsul lor la scrisoarea din 28.12.23 (mentionata mai jos)
+`28.12.2023` în care [precizam](/2023_12_30_raspunsLaCDO.md) ca se cere o actiune din partea Parlamentului, nu doar a Consiliului.
+
 ### Întrebare către Comisia juridică: cum de făcut ca Consiliul să respecte legea:
 `28.12.2023` unde [intrebăm](/cij-question.md) Parlamentul (Comisia Juridică, de aceasta dată), cum de facut ca Consiliul să fie obligat să respecte propriul regulament.
 
